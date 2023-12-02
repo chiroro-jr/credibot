@@ -5,7 +5,6 @@ import { z } from 'zod'
 import type { PageServerLoad } from './$types.js'
 import { ClientResponseError } from 'pocketbase'
 import { dev } from '$app/environment'
-import { ML_BACKEND_DEV_URL } from '$env/static/private'
 import { env } from '$env/dynamic/private'
 interface Expand {
 	source: SourcesResponse
@@ -54,7 +53,7 @@ export const actions: Actions = {
 
 		try {
 			// make a fetch request to the ML backend to get the prediction for the post
-			const mlBackendURL = dev ? ML_BACKEND_DEV_URL : env.ML_BACKEND_PROD_URL
+			const mlBackendURL = dev ? 'http://127.0.0.1:8000' : env.ML_BACKEND_PROD_URL
 			const res = await fetch(`${mlBackendURL}/predict`, {
 				method: 'POST',
 				body: JSON.stringify(result.data),

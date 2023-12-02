@@ -1,13 +1,12 @@
 import { serializeNonPOJOs } from '$lib/utils'
 import { redirect, type RequestEvent } from '@sveltejs/kit'
 import { dev } from '$app/environment'
-import { POCKETBASE_DEV_URL } from '$env/static/private'
 import { env } from '$env/dynamic/private'
 import status from 'http-status'
 import PocketBase from 'pocketbase'
 
 export function authenticateUser(event: RequestEvent) {
-	const pocketbaseURL = dev ? POCKETBASE_DEV_URL : env.POCKETBASE_PROD_URL
+	const pocketbaseURL = dev ? 'http://127.0.0.1:8090' : env.POCKETBASE_PROD_URL
 	event.locals.pb = new PocketBase(pocketbaseURL)
 	event.locals.pb.authStore.loadFromCookie(event.request.headers.get('cookie') || '')
 
