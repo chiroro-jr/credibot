@@ -29,6 +29,10 @@
 	}))
 </script>
 
+<svelte:head>
+	<title>Credibot - New Credibility Check</title>
+</svelte:head>
+
 <div class="grid gap-8">
 	<Heading title="Check a new post">
 		<Button href="/dashboard/checks" size="lg">Go Back</Button>
