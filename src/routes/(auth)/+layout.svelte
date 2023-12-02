@@ -17,7 +17,7 @@
 	.auth-layout {
 		display: grid;
 		grid-template-columns: repeat(2, 1fr);
-		background-image: url('social-media.webp');
+		background-image: url('/social-media.webp');
 		background-repeat: no-repeat;
 		background-position: center;
 		background-size: cover;
