@@ -55,7 +55,7 @@
 </script>
 
 <svelte:head>
-	<title>CPRMS - Credibility Checks</title>
+	<title>Credibot - Credibility Checks</title>
 </svelte:head>
 
 <div class="grid gap-8">
