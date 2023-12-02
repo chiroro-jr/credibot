@@ -21,7 +21,7 @@
 </script>
 
 <svelte:head>
-	<title>CPRMS - Sign In</title>
+	<title>Credibot - Sign In</title>
 </svelte:head>
 
 <form class="flex flex-col gap-6" use:enhance={submit} method="POST">
