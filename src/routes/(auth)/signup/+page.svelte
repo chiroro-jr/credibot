@@ -20,7 +20,7 @@
 </script>
 
 <svelte:head>
-	<title>CPRMS - Create New Account</title>
+	<title>Credibot - Create New Account</title>
 </svelte:head>
 
 <form class="flex flex-col gap-6" method="POST" use:enhance={submit}>
