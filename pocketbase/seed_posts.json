@@ -1,0 +1,2904 @@
+[
+	{
+		"content": "Says it\u2019s \u201cOK to kill babies once born\u201d in Virginia.",
+		"source": "358i86sqcmg3zvg",
+		"user": "mxy8fmafaeb91s2",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 98.97,
+			"prob_positive": 1.03
+		}
+	},
+	{
+		"content": "\u201cTrans species man who self-identifies as a deer accidentally shot by hunters.\u201d",
+		"source": "pk76dpvtqj83byw",
+		"user": "pajqn36vjx3d9dr",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 99.54,
+			"prob_positive": 0.46
+		}
+	},
+	{
+		"content": "\u201cSe filtran fotos\u201d de \u201csatanista ense\u00f1ando sus Rituales y Adoraci\u00f3n a lucifer a ni\u00f1os en bibliotecas de Estados Unidos\u201d.",
+		"source": "358i86sqcmg3zvg",
+		"user": "pajqn36vjx3d9dr",
+		"prediction": { "classification": "not credible", "prob_negative": 100.0, "prob_positive": 0.0 }
+	},
+	{
+		"content": "John McCain \"has threatened extinction for North Korea and sung songs about bombing Iran.\"",
+		"source": "e74kay22o4gedg0",
+		"user": "7uvlic815c0uuzw",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 70.26,
+			"prob_positive": 29.74
+		}
+	},
+	{
+		"content": "\u201cThe best type\u201d of drinking water is H3O2, from fruits, \u201ca more structured form of water.\u201d",
+		"source": "358i86sqcmg3zvg",
+		"user": "5jj9yscrcye9g9d",
+		"prediction": { "classification": "not credible", "prob_negative": 98.8, "prob_positive": 1.2 }
+	},
+	{
+		"content": "\"The White House has three staff calligraphers making between $86,000 and $97,000 each, and just one National Security Director. She makes $55,000.\"",
+		"source": "358i86sqcmg3zvg",
+		"user": "7uvlic815c0uuzw",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 82.44,
+			"prob_positive": 17.56
+		}
+	},
+	{
+		"content": "\u201cLa NASA advierte que el sol podr\u00eda dejar de brillar y causar una cat\u00e1strofe\u201d.",
+		"source": "358i86sqcmg3zvg",
+		"user": "o3x0vnzb81lq0qk",
+		"prediction": { "classification": "not credible", "prob_negative": 100.0, "prob_positive": 0.0 }
+	},
+	{
+		"content": "Merriam-Webster recently changed its definition of the word \u201cvaccine\u201d and removed the immunity portion.",
+		"source": "358i86sqcmg3zvg",
+		"user": "ozqtf28e443v1ni",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 98.63,
+			"prob_positive": 1.37
+		}
+	},
+	{
+		"content": "\u201cHundreds of thousands of innocent people died\u201d from taking the drug azidothymidine, or AZT.",
+		"source": "pk76dpvtqj83byw",
+		"user": "49trvwx5yz6n9ye",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 96.17,
+			"prob_positive": 3.83
+		}
+	},
+	{
+		"content": "Quotes Mark Twain as saying of journalists that it is \"far better\" to \"fear the media for they will steal your honor\" and describes them as \"a horde of ignorant, self-complacent simpletons\u2026\"",
+		"source": "358i86sqcmg3zvg",
+		"user": "rw3d2jggnl378tq",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 99.99,
+			"prob_positive": 0.01
+		}
+	},
+	{
+		"content": "Photo shows Democratic protesters who \u201cstormed the U.S. Capitol in 2018.\u201d",
+		"source": "358i86sqcmg3zvg",
+		"user": "zp72blm0tepnhh9",
+		"prediction": { "classification": "not credible", "prob_negative": 100.0, "prob_positive": 0.0 }
+	},
+	{
+		"content": "The government is giving every household a $500 Walmart shopping credit to help with inflation.",
+		"source": "358i86sqcmg3zvg",
+		"user": "rw3d2jggnl378tq",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 87.24,
+			"prob_positive": 12.76
+		}
+	},
+	{
+		"content": "Una receta casera \"restaura la visi\u00f3n en 7 d\u00edas, el glaucoma y las cataratas quedan en el pasado\".",
+		"source": "358i86sqcmg3zvg",
+		"user": "o3x0vnzb81lq0qk",
+		"prediction": { "classification": "not credible", "prob_negative": 100.0, "prob_positive": 0.0 }
+	},
+	{
+		"content": "\"America's wealthiest 25 percent pay 86 percent of total income taxes. Wealthiest 5 percent pay 60 percent of total income taxes.\"",
+		"source": "e74kay22o4gedg0",
+		"user": "mxy8fmafaeb91s2",
+		"prediction": { "classification": "credible", "prob_negative": 0.0, "prob_positive": 100.0 }
+	},
+	{
+		"content": "Says Mark Zuckerberg's real name is Jacob Greenberg and he\u2019s the grandson of billionaire David Rockefeller.",
+		"source": "358i86sqcmg3zvg",
+		"user": "mxy8fmafaeb91s2",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 99.61,
+			"prob_positive": 0.39
+		}
+	},
+	{
+		"content": "Says the \u201c1986 Vaccine protection act\u201d resulted in \u201cthe biggest jump in shots\u201d for children because it gave drug manufacturers \u201cexemption for responsibility of killing people.\u201d",
+		"source": "358i86sqcmg3zvg",
+		"user": "zp72blm0tepnhh9",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 98.56,
+			"prob_positive": 1.44
+		}
+	},
+	{
+		"content": "\u201cKamala Harris is the prosecutor who refused to charge the police in the murder of Oscar Grant!\u201d",
+		"source": "358i86sqcmg3zvg",
+		"user": "rw3d2jggnl378tq",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 98.05,
+			"prob_positive": 1.95
+		}
+	},
+	{
+		"content": "\u201cJoan Rivers\u2019 daughter threatens to expose Michelle Obama.\u201d",
+		"source": "358i86sqcmg3zvg",
+		"user": "ozqtf28e443v1ni",
+		"prediction": { "classification": "not credible", "prob_negative": 99.7, "prob_positive": 0.3 }
+	},
+	{
+		"content": "\u201cNurse passes out on live TV after taking vaccine.\u201d",
+		"source": "358i86sqcmg3zvg",
+		"user": "mxy8fmafaeb91s2",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 98.21,
+			"prob_positive": 1.79
+		}
+	},
+	{
+		"content": "Says \"Joe Biden calls for gun ban.\"",
+		"source": "358i86sqcmg3zvg",
+		"user": "mxy8fmafaeb91s2",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 99.95,
+			"prob_positive": 0.05
+		}
+	},
+	{
+		"content": "\"Christine Blasey Ford claims that she called a friend on her cell phone after the \u2018attack\u2019 in or around 1982.\"",
+		"source": "358i86sqcmg3zvg",
+		"user": "49trvwx5yz6n9ye",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 99.94,
+			"prob_positive": 0.06
+		}
+	},
+	{
+		"content": "Says U.S. is giving seven Alaskan islands to Russia.",
+		"source": "358i86sqcmg3zvg",
+		"user": "ozqtf28e443v1ni",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 79.87,
+			"prob_positive": 20.13
+		}
+	},
+	{
+		"content": "Magic Johnson tested positive for HIV \"because Fauci\u2019s gain of function study used a contaminated Hepatitis B vaccine.\"",
+		"source": "pk76dpvtqj83byw",
+		"user": "zp72blm0tepnhh9",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 99.96,
+			"prob_positive": 0.04
+		}
+	},
+	{
+		"content": "\u201cSame little boy died of COVID-19 in three different countries. Still don\u2019t believe the media is #fakenews?\u201d",
+		"source": "358i86sqcmg3zvg",
+		"user": "49trvwx5yz6n9ye",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 99.48,
+			"prob_positive": 0.52
+		}
+	},
+	{
+		"content": "\"Latino, inmigrante, reci\u00e9n llegado \u2026 Si eres inmigrante en Estados Unidos y llevas m\u00e1s de tres meses ah\u00ed, podr\u00edas calificar para obtener cupones de comida\u201d.",
+		"source": "358i86sqcmg3zvg",
+		"user": "rw3d2jggnl378tq",
+		"prediction": { "classification": "not credible", "prob_negative": 100.0, "prob_positive": 0.0 }
+	},
+	{
+		"content": "The EPA was asked about an environmental citation for the city landfill in Nashua, N.H. but \"didn\u2019t know\" why it was cited.",
+		"source": "358i86sqcmg3zvg",
+		"user": "o3x0vnzb81lq0qk",
+		"prediction": { "classification": "credible", "prob_negative": 40.28, "prob_positive": 59.72 }
+	},
+	{
+		"content": "\"Nearly 60% of all occupants of HUD properties in U.S. are illegals.\"",
+		"source": "358i86sqcmg3zvg",
+		"user": "7uvlic815c0uuzw",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 88.35,
+			"prob_positive": 11.65
+		}
+	},
+	{
+		"content": "Video shows \u201cRussian desert base and infrastructure hit by Bayraktar TB2 drone.\u201d",
+		"source": "358i86sqcmg3zvg",
+		"user": "zp72blm0tepnhh9",
+		"prediction": { "classification": "not credible", "prob_negative": 100.0, "prob_positive": 0.0 }
+	},
+	{
+		"content": "\u201cPennsylvania sent out 1,823,148 mail-in ballots. They got back 2,589,242.\u201d",
+		"source": "358i86sqcmg3zvg",
+		"user": "5jj9yscrcye9g9d",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 96.69,
+			"prob_positive": 3.31
+		}
+	},
+	{
+		"content": "Says \"Three Muslim congresswomen just refused\" to sign an oath of office to uphold the U.S. Constitution.",
+		"source": "358i86sqcmg3zvg",
+		"user": "49trvwx5yz6n9ye",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 97.83,
+			"prob_positive": 2.17
+		}
+	},
+	{
+		"content": "Neil Armstrong\u2019s space boots don\u2019t match a photo of his footprint on the moon, suggesting the moon landing was a hoax.",
+		"source": "358i86sqcmg3zvg",
+		"user": "pajqn36vjx3d9dr",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 99.97,
+			"prob_positive": 0.03
+		}
+	},
+	{
+		"content": "Says President Trump\u2019s Oct. 31 rally in Butler, Pa., drew over 57,000 people.",
+		"source": "358i86sqcmg3zvg",
+		"user": "4c42n2w5c3078rh",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 99.78,
+			"prob_positive": 0.22
+		}
+	},
+	{
+		"content": "Buzz Aldrin admitted that the moon landing \u201cdidn\u2019t happen.\u201d",
+		"source": "pk76dpvtqj83byw",
+		"user": "7uvlic815c0uuzw",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 99.69,
+			"prob_positive": 0.31
+		}
+	},
+	{
+		"content": "\"China has been stealing our manufacturing, costing Wisconsin almost 90,000 jobs.\"",
+		"source": "358i86sqcmg3zvg",
+		"user": "pajqn36vjx3d9dr",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 66.79,
+			"prob_positive": 33.21
+		}
+	},
+	{
+		"content": "In economic growth, \"Obama's best year was slower than Bill Clinton's worst year.\"",
+		"source": "e74kay22o4gedg0",
+		"user": "73exwfqqmp7xt3b",
+		"prediction": { "classification": "credible", "prob_negative": 2.92, "prob_positive": 97.08 }
+	},
+	{
+		"content": "A list shows over 14,000 dead people voted in Wayne County, Michigan.",
+		"source": "e74kay22o4gedg0",
+		"user": "7uvlic815c0uuzw",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 99.53,
+			"prob_positive": 0.47
+		}
+	},
+	{
+		"content": "The shooting at an elementary school in Uvalde County, Texas, was a false flag.",
+		"source": "e74kay22o4gedg0",
+		"user": "ozqtf28e443v1ni",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 99.82,
+			"prob_positive": 0.18
+		}
+	},
+	{
+		"content": "Students no longer say the Pledge of Allegiance in schools.",
+		"source": "358i86sqcmg3zvg",
+		"user": "49trvwx5yz6n9ye",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 82.09,
+			"prob_positive": 17.91
+		}
+	},
+	{
+		"content": "\u201cThe largest contributor to the debt ceiling, or to our deficit, has been the Trump tax cuts.\u201d",
+		"source": "e74kay22o4gedg0",
+		"user": "pajqn36vjx3d9dr",
+		"prediction": { "classification": "credible", "prob_negative": 1.65, "prob_positive": 98.35 }
+	},
+	{
+		"content": "Says students have to repeat the same grade next year.",
+		"source": "358i86sqcmg3zvg",
+		"user": "o3x0vnzb81lq0qk",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 75.83,
+			"prob_positive": 24.17
+		}
+	},
+	{
+		"content": "Google and Apple \u201cput a covid tracker on every phone.\u201d",
+		"source": "358i86sqcmg3zvg",
+		"user": "49trvwx5yz6n9ye",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 97.85,
+			"prob_positive": 2.15
+		}
+	},
+	{
+		"content": "A photo shows Joe Namath and Al Woodall kneeling on the sideline of a football field during the national anthem.",
+		"source": "358i86sqcmg3zvg",
+		"user": "zp72blm0tepnhh9",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 99.89,
+			"prob_positive": 0.11
+		}
+	},
+	{
+		"content": "\"Cell phone numbers go public this month.\"",
+		"source": "358i86sqcmg3zvg",
+		"user": "7uvlic815c0uuzw",
+		"prediction": { "classification": "not credible", "prob_negative": 95.7, "prob_positive": 4.3 }
+	},
+	{
+		"content": "An economics professor taught her students about socialism by \u201csocialising grades\u201d and failing all of them",
+		"source": "358i86sqcmg3zvg",
+		"user": "49trvwx5yz6n9ye",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 86.39,
+			"prob_positive": 13.61
+		}
+	},
+	{
+		"content": "Says the Clinton Foundation \"gave ONLY $5 million to charities, spent $85 million for their salaries & travels and KEPT the rest = $87 million\" in 2014.",
+		"source": "358i86sqcmg3zvg",
+		"user": "ozqtf28e443v1ni",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 99.25,
+			"prob_positive": 0.75
+		}
+	},
+	{
+		"content": "\u201cOur legal president, President Trump, has signed a cease and desist order for the COVID vaccines.\u201d",
+		"source": "gcppwnivx8lk6xo",
+		"user": "73exwfqqmp7xt3b",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 99.91,
+			"prob_positive": 0.09
+		}
+	},
+	{
+		"content": "A schedule proves Donald Trump was recently participating in presidential activities.",
+		"source": "358i86sqcmg3zvg",
+		"user": "pajqn36vjx3d9dr",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 99.95,
+			"prob_positive": 0.05
+		}
+	},
+	{
+		"content": "Says Sen. Chuck Schumer deleted a Feb. 5 tweet criticizing President Donald Trump\u2019s decision to ban some forms of travel to and from China.",
+		"source": "e74kay22o4gedg0",
+		"user": "4c42n2w5c3078rh",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 97.37,
+			"prob_positive": 2.63
+		}
+	},
+	{
+		"content": "Says it was \"a crime for Nixon to wiretap the Democrats at Watergate but OK for Obama to wiretap Republicans at Trump Tower.\u201d",
+		"source": "358i86sqcmg3zvg",
+		"user": "7uvlic815c0uuzw",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 97.09,
+			"prob_positive": 2.91
+		}
+	},
+	{
+		"content": "\"Last year (the U.S. women\u2019s soccer team) generated $20 million more than the men\u2019s team and were paid almost four times less.\"",
+		"source": "358i86sqcmg3zvg",
+		"user": "o3x0vnzb81lq0qk",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 92.25,
+			"prob_positive": 7.75
+		}
+	},
+	{
+		"content": "Video shows Nancy Pelosi slurring her speech at a public event.",
+		"source": "358i86sqcmg3zvg",
+		"user": "o3x0vnzb81lq0qk",
+		"prediction": { "classification": "not credible", "prob_negative": 100.0, "prob_positive": 0.0 }
+	},
+	{
+		"content": "\u201cIvermectin has been FDA approved for human use since 1996.\u201d",
+		"source": "358i86sqcmg3zvg",
+		"user": "pajqn36vjx3d9dr",
+		"prediction": { "classification": "not credible", "prob_negative": 99.5, "prob_positive": 0.5 }
+	},
+	{
+		"content": "Says Joe Biden \u201cmade it clear..No More Coal Fired Power Plants!! So, No More Coal!! Wake Up WV, PA,OH, KY\u201d",
+		"source": "e74kay22o4gedg0",
+		"user": "rw3d2jggnl378tq",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 82.46,
+			"prob_positive": 17.54
+		}
+	},
+	{
+		"content": "Says Time magazine cover features President Donald Trump with the text \"Worst. President. Ever.\"",
+		"source": "358i86sqcmg3zvg",
+		"user": "o3x0vnzb81lq0qk",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 99.97,
+			"prob_positive": 0.03
+		}
+	},
+	{
+		"content": "\u201cGas prices highest in a decade. Worst jobs report in 2 decades. Highest inflation in 3 decades. Highest increase in illegal immigration in 4 decades.\u201d",
+		"source": "358i86sqcmg3zvg",
+		"user": "o3x0vnzb81lq0qk",
+		"prediction": { "classification": "credible", "prob_negative": 0.0, "prob_positive": 100.0 }
+	},
+	{
+		"content": "\"In America, there is a father who is holding down two jobs and paying more taxes than the richest 400 families in America.\"",
+		"source": "358i86sqcmg3zvg",
+		"user": "4c42n2w5c3078rh",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 88.63,
+			"prob_positive": 11.37
+		}
+	},
+	{
+		"content": "Pope Francis uses a modest compact car to get around, while Creflo Dollar drives an expensive sports car.",
+		"source": "358i86sqcmg3zvg",
+		"user": "zp72blm0tepnhh9",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 99.84,
+			"prob_positive": 0.16
+		}
+	},
+	{
+		"content": "\"Obama has proposed a 1.4% pay increase for active duty military in 2011. This is THE LOWEST SINCE 1973 ... A LOWER PAY INCREASE THAN WELFARE RECIPIENTS!!!\"",
+		"source": "358i86sqcmg3zvg",
+		"user": "49trvwx5yz6n9ye",
+		"prediction": { "classification": "credible", "prob_negative": 0.98, "prob_positive": 99.02 }
+	},
+	{
+		"content": "The mass shooting in Buffalo, New York was a \u201cfalse flag event.\u201d",
+		"source": "e74kay22o4gedg0",
+		"user": "49trvwx5yz6n9ye",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 99.86,
+			"prob_positive": 0.14
+		}
+	},
+	{
+		"content": "Many March for Our Lives speakers\u00a0called for \"the murder of those who would not turn over their guns to the government.\"",
+		"source": "358i86sqcmg3zvg",
+		"user": "4c42n2w5c3078rh",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 99.91,
+			"prob_positive": 0.09
+		}
+	},
+	{
+		"content": "Pfizer staged the Will Smith and Chris Rock confrontation at the Academy Awards because it \"has a new alopecia medication coming out.\"",
+		"source": "358i86sqcmg3zvg",
+		"user": "4c42n2w5c3078rh",
+		"prediction": { "classification": "not credible", "prob_negative": 100.0, "prob_positive": 0.0 }
+	},
+	{
+		"content": "Says the April 22 jump in COVID-19 cases was related to the election.",
+		"source": "358i86sqcmg3zvg",
+		"user": "ozqtf28e443v1ni",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 99.73,
+			"prob_positive": 0.27
+		}
+	},
+	{
+		"content": "Says that the \"28th Amendment\" prohibits Congress from creating laws that apply to U.S. citizens but not to them, and vice-versa.",
+		"source": "358i86sqcmg3zvg",
+		"user": "7uvlic815c0uuzw",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 73.52,
+			"prob_positive": 26.48
+		}
+	},
+	{
+		"content": "\u201cOne of the first nurses to receive the vaccine in AL is now dead.\u201d",
+		"source": "e74kay22o4gedg0",
+		"user": "zp72blm0tepnhh9",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 99.04,
+			"prob_positive": 0.96
+		}
+	},
+	{
+		"content": "\"25 percent of federal inmates are noncitizens.\"",
+		"source": "e74kay22o4gedg0",
+		"user": "pajqn36vjx3d9dr",
+		"prediction": { "classification": "credible", "prob_negative": 39.6, "prob_positive": 60.4 }
+	},
+	{
+		"content": "Video shows Hoda Kotb interviewing Kelly Clarkson about \u201cher weight loss journey.\u201d",
+		"source": "358i86sqcmg3zvg",
+		"user": "zp72blm0tepnhh9",
+		"prediction": { "classification": "not credible", "prob_negative": 100.0, "prob_positive": 0.0 }
+	},
+	{
+		"content": "Says Joe Biden calls Donald Trump\u2019s supporters the dregs of society.",
+		"source": "358i86sqcmg3zvg",
+		"user": "o3x0vnzb81lq0qk",
+		"prediction": { "classification": "not credible", "prob_negative": 100.0, "prob_positive": 0.0 }
+	},
+	{
+		"content": "The number of followers John Fetterman and Mehmet Oz have on Instagram proves the Pennsylvania Senate race was illegitimate.",
+		"source": "pk76dpvtqj83byw",
+		"user": "4c42n2w5c3078rh",
+		"prediction": { "classification": "not credible", "prob_negative": 100.0, "prob_positive": 0.0 }
+	},
+	{
+		"content": "\"The Clinton Foundation gives less than 10\u00a0(percent in direct aid). In 2013, they raised 140 million bucks, gave $9 million to people in direct aid.\"",
+		"source": "e74kay22o4gedg0",
+		"user": "zp72blm0tepnhh9",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 85.21,
+			"prob_positive": 14.79
+		}
+	},
+	{
+		"content": "Rod Stewart\u2019s son \u201cwas rushed to the hospital \u2026 with a suspected heart attack\u201d because of a COVID-19 vaccine.",
+		"source": "pk76dpvtqj83byw",
+		"user": "rw3d2jggnl378tq",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 99.98,
+			"prob_positive": 0.02
+		}
+	},
+	{
+		"content": "Says a photo shows \"25,000 outside all to hear the POTUS speak!\"",
+		"source": "358i86sqcmg3zvg",
+		"user": "4c42n2w5c3078rh",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 99.82,
+			"prob_positive": 0.18
+		}
+	},
+	{
+		"content": "Paul Pelosi hasn\u2019t been seen in public for months because he had mpox.",
+		"source": "pk76dpvtqj83byw",
+		"user": "4c42n2w5c3078rh",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 99.52,
+			"prob_positive": 0.48
+		}
+	},
+	{
+		"content": "\"Ministros de Defensa de OTAN deciden invadir a RUSIA para prevenir ataque de Putin\u201d.",
+		"source": "358i86sqcmg3zvg",
+		"user": "zp72blm0tepnhh9",
+		"prediction": { "classification": "not credible", "prob_negative": 100.0, "prob_positive": 0.0 }
+	},
+	{
+		"content": "\u201cThe convoy in Canada has made the Guinness Book of World Records for the longest convoy.\u201d",
+		"source": "pk76dpvtqj83byw",
+		"user": "4c42n2w5c3078rh",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 92.29,
+			"prob_positive": 7.71
+		}
+	},
+	{
+		"content": "\u201cCDC quietly deletes 6,000 COVID vaccine deaths from its CDC website total in one day.\u201d",
+		"source": "358i86sqcmg3zvg",
+		"user": "7uvlic815c0uuzw",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 99.98,
+			"prob_positive": 0.02
+		}
+	},
+	{
+		"content": "Parasite cleanses \"kill herpes by starving the parasites in the stomach.\"",
+		"source": "358i86sqcmg3zvg",
+		"user": "ozqtf28e443v1ni",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 96.01,
+			"prob_positive": 3.99
+		}
+	},
+	{
+		"content": "\"The average cost for health insurance in Florida went from about $600 a month for an individual to about $150 a month.\"",
+		"source": "e74kay22o4gedg0",
+		"user": "rw3d2jggnl378tq",
+		"prediction": { "classification": "credible", "prob_negative": 4.71, "prob_positive": 95.29 }
+	},
+	{
+		"content": "\"Latina workers make 54 cents for every dollar earned by white, non-Hispanic men.\"",
+		"source": "e74kay22o4gedg0",
+		"user": "4c42n2w5c3078rh",
+		"prediction": { "classification": "credible", "prob_negative": 39.67, "prob_positive": 60.33 }
+	},
+	{
+		"content": "Says chiefs from the American Indian Nation gave Donald Trump a plaque of his new Indian name, \"Walking Eagle,\" which actually depicts \"a bird so full of s*** it can no longer fly.\"",
+		"source": "358i86sqcmg3zvg",
+		"user": "73exwfqqmp7xt3b",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 99.78,
+			"prob_positive": 0.22
+		}
+	},
+	{
+		"content": "March 2022 moon crash was orchestrated by the government and visible from Earth.",
+		"source": "358i86sqcmg3zvg",
+		"user": "zp72blm0tepnhh9",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 99.98,
+			"prob_positive": 0.02
+		}
+	},
+	{
+		"content": "\"Gavin Newsom reportedly intervened at the request of Nancy Pelosi and directly ordered the California Highway Patrol to drop all charges\" against Paul Pelosi for his DUI arrest.",
+		"source": "pk76dpvtqj83byw",
+		"user": "5jj9yscrcye9g9d",
+		"prediction": { "classification": "not credible", "prob_negative": 100.0, "prob_positive": 0.0 }
+	},
+	{
+		"content": "Says Facebook imposes a 7% limit on a user\u2019s sharing.",
+		"source": "358i86sqcmg3zvg",
+		"user": "zp72blm0tepnhh9",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 95.62,
+			"prob_positive": 4.38
+		}
+	},
+	{
+		"content": "\"22 times Barack Obama said he did not have the authority to implement this type of\" anti-deportation \"measure. And then the day after he signed this into law, he said, quote, \u2018I just changed the law.\u2019\"",
+		"source": "e74kay22o4gedg0",
+		"user": "mxy8fmafaeb91s2",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 97.51,
+			"prob_positive": 2.49
+		}
+	},
+	{
+		"content": "The COVID-19 rescue bill includes money for a list of projects that are not COVID-related.",
+		"source": "358i86sqcmg3zvg",
+		"user": "ozqtf28e443v1ni",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 53.68,
+			"prob_positive": 46.32
+		}
+	},
+	{
+		"content": "Says 11 states have more people on welfare than employed.",
+		"source": "e74kay22o4gedg0",
+		"user": "73exwfqqmp7xt3b",
+		"prediction": { "classification": "credible", "prob_negative": 42.45, "prob_positive": 57.55 }
+	},
+	{
+		"content": "Says Hillary Clinton \"wants to bring in thousands of refugees to America from all around the world without any kind of security screening.\"",
+		"source": "358i86sqcmg3zvg",
+		"user": "4c42n2w5c3078rh",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 97.53,
+			"prob_positive": 2.47
+		}
+	},
+	{
+		"content": "Says that U.S. Sen. Marco Rubio says troops are leaving Iraq \"too fast.\"",
+		"source": "e74kay22o4gedg0",
+		"user": "ozqtf28e443v1ni",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 77.16,
+			"prob_positive": 22.84
+		}
+	},
+	{
+		"content": "If Jeff Bezos\u2019 net worth reaches $1 trillion, \u201che could literally end world poverty and give everyone $1 billion and he will still have $91.5 billion left.\u201d",
+		"source": "358i86sqcmg3zvg",
+		"user": "mxy8fmafaeb91s2",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 54.89,
+			"prob_positive": 45.11
+		}
+	},
+	{
+		"content": "Photo shows the \u201cUSS Al Gore Global Warming Research Vessel\u201d covered in ice.",
+		"source": "358i86sqcmg3zvg",
+		"user": "4c42n2w5c3078rh",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 99.98,
+			"prob_positive": 0.02
+		}
+	},
+	{
+		"content": "\u201cModerna COVID vaccine is no longer recommended due to heart inflammation.\u201d",
+		"source": "358i86sqcmg3zvg",
+		"user": "rw3d2jggnl378tq",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 99.98,
+			"prob_positive": 0.02
+		}
+	},
+	{
+		"content": "Homemade baby formula recipes offer a \u2018viable option\u2019 during U.S. shortage",
+		"source": "358i86sqcmg3zvg",
+		"user": "o3x0vnzb81lq0qk",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 98.74,
+			"prob_positive": 1.26
+		}
+	},
+	{
+		"content": "Post says a recent bill passed, and \u201cWe get another stimulus check for $2500 at July 30, 2021\u201d",
+		"source": "358i86sqcmg3zvg",
+		"user": "pajqn36vjx3d9dr",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 98.94,
+			"prob_positive": 1.06
+		}
+	},
+	{
+		"content": "Says after leaving the White House, Hillary Clinton \"was forced to return an estimated $200,000 in White House china, furniture and artwork that she had stolen.\"",
+		"source": "358i86sqcmg3zvg",
+		"user": "49trvwx5yz6n9ye",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 99.99,
+			"prob_positive": 0.01
+		}
+	},
+	{
+		"content": "\"Social Security has nothing to do with the deficit or the national debt.\"",
+		"source": "358i86sqcmg3zvg",
+		"user": "4c42n2w5c3078rh",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 50.07,
+			"prob_positive": 49.93
+		}
+	},
+	{
+		"content": "\u201cThe poor are, ironically, the most likely to be employed in the industries deemed \u2018essential\u2019 while their upper-class peers are freed to bunker down for weeks until the first death wave passes.\u201d",
+		"source": "358i86sqcmg3zvg",
+		"user": "zp72blm0tepnhh9",
+		"prediction": { "classification": "credible", "prob_negative": 37.29, "prob_positive": 62.71 }
+	},
+	{
+		"content": "Says Joe Biden didn\u2019t act in response to the emergency in Texas.",
+		"source": "358i86sqcmg3zvg",
+		"user": "49trvwx5yz6n9ye",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 99.52,
+			"prob_positive": 0.48
+		}
+	},
+	{
+		"content": "\"We get 30 percent of our oil from the Gulf (of Mexico).\"",
+		"source": "e74kay22o4gedg0",
+		"user": "zp72blm0tepnhh9",
+		"prediction": { "classification": "credible", "prob_negative": 38.33, "prob_positive": 61.67 }
+	},
+	{
+		"content": "Says Austin Mayor Lee Leffingwell voted for a toll lane on MoPac.",
+		"source": "e74kay22o4gedg0",
+		"user": "ozqtf28e443v1ni",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 66.37,
+			"prob_positive": 33.63
+		}
+	},
+	{
+		"content": "President Joe Biden is \u201cin Gitmo.\u201d",
+		"source": "358i86sqcmg3zvg",
+		"user": "rw3d2jggnl378tq",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 99.81,
+			"prob_positive": 0.19
+		}
+	},
+	{
+		"content": "\"The real electoral map\" shows Donald Trump leading Joe Biden in electoral votes.",
+		"source": "358i86sqcmg3zvg",
+		"user": "7uvlic815c0uuzw",
+		"prediction": { "classification": "not credible", "prob_negative": 100.0, "prob_positive": 0.0 }
+	},
+	{
+		"content": "Says \"CNN Journalist Of The Year Fired For Creating Fake News Stories,\" with image of CNN reporter Jim Acosta.",
+		"source": "358i86sqcmg3zvg",
+		"user": "pajqn36vjx3d9dr",
+		"prediction": { "classification": "not credible", "prob_negative": 100.0, "prob_positive": 0.0 }
+	},
+	{
+		"content": "Video shows a missile hitting the Pentagon on 9/11.",
+		"source": "pk76dpvtqj83byw",
+		"user": "pajqn36vjx3d9dr",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 99.99,
+			"prob_positive": 0.01
+		}
+	},
+	{
+		"content": "Says Ron DeSantis said Puerto Rico\u2019s flag can\u2019t be displayed in Florida.",
+		"source": "gcppwnivx8lk6xo",
+		"user": "zp72blm0tepnhh9",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 99.95,
+			"prob_positive": 0.05
+		}
+	},
+	{
+		"content": "Says Amazon is \"paying full-time employees so little that they require gov food assistance.\"",
+		"source": "e74kay22o4gedg0",
+		"user": "73exwfqqmp7xt3b",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 65.96,
+			"prob_positive": 34.04
+		}
+	},
+	{
+		"content": "\u201cBiden impeachment in progress.\u201d",
+		"source": "358i86sqcmg3zvg",
+		"user": "mxy8fmafaeb91s2",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 98.97,
+			"prob_positive": 1.03
+		}
+	},
+	{
+		"content": "\u201cBiden\u2019s teleprompter told him to \u2018LEAVE NOW\u2019 when his speech was concluded.\u201d",
+		"source": "pk76dpvtqj83byw",
+		"user": "7uvlic815c0uuzw",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 99.74,
+			"prob_positive": 0.26
+		}
+	},
+	{
+		"content": "\"Barack Obama had 150 days in the U.S. Senate where he was able to vote quite often 'present.' \"",
+		"source": "e74kay22o4gedg0",
+		"user": "ozqtf28e443v1ni",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 89.31,
+			"prob_positive": 10.69
+		}
+	},
+	{
+		"content": "Even among \"second and third generation\" Muslims in the United States, \"there's no real assimilation.\"",
+		"source": "e74kay22o4gedg0",
+		"user": "4c42n2w5c3078rh",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 74.95,
+			"prob_positive": 25.05
+		}
+	},
+	{
+		"content": "\u201c15 days left to vote BUT if you are voting by mail, you need to vote TODAY. USPS says it needs a 14 day roundtrip to be counted on election day.\u201d",
+		"source": "pk76dpvtqj83byw",
+		"user": "zp72blm0tepnhh9",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 99.78,
+			"prob_positive": 0.22
+		}
+	},
+	{
+		"content": "Says Texas state funds were spent on \"a TV series on spouses cheating on their wives, kind of glorifying the act of cheating.\"",
+		"source": "e74kay22o4gedg0",
+		"user": "7uvlic815c0uuzw",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 95.41,
+			"prob_positive": 4.59
+		}
+	},
+	{
+		"content": "Says Nancy Pelosi sent a letter to Portland\u2019s mayor after demonstrations there \u201curging him to stick to the proven Democratic Play book.\u201d",
+		"source": "358i86sqcmg3zvg",
+		"user": "o3x0vnzb81lq0qk",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 99.95,
+			"prob_positive": 0.05
+		}
+	},
+	{
+		"content": "A Mars Rover photo captured by NASA shows a doorway, suggesting extraterrestrial life.",
+		"source": "358i86sqcmg3zvg",
+		"user": "rw3d2jggnl378tq",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 99.95,
+			"prob_positive": 0.05
+		}
+	},
+	{
+		"content": "\"Texas teacher fired for reading Diary of Anne Frank to class.\u201d",
+		"source": "e74kay22o4gedg0",
+		"user": "49trvwx5yz6n9ye",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 66.43,
+			"prob_positive": 33.57
+		}
+	},
+	{
+		"content": "\"Trump just bought a handgun!\u201d",
+		"source": "pk76dpvtqj83byw",
+		"user": "pajqn36vjx3d9dr",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 99.69,
+			"prob_positive": 0.31
+		}
+	},
+	{
+		"content": "\"Obama\u2019s stimulus, passed in his first month in office, will cost more than the entire Iraq War.\"",
+		"source": "e74kay22o4gedg0",
+		"user": "rw3d2jggnl378tq",
+		"prediction": { "classification": "credible", "prob_negative": 48.65, "prob_positive": 51.35 }
+	},
+	{
+		"content": "Photo shows \u201cplastic bags filled with gas\u201d in someone\u2019s car trunk in South Carolina.",
+		"source": "358i86sqcmg3zvg",
+		"user": "7uvlic815c0uuzw",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 99.99,
+			"prob_positive": 0.01
+		}
+	},
+	{
+		"content": "\u201cWar Begins \u2014 F-35, F-16 and MiG-29 NATO intercept and destroy Russia Jets in Polish air space.\u201d",
+		"source": "358i86sqcmg3zvg",
+		"user": "pajqn36vjx3d9dr",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 99.29,
+			"prob_positive": 0.71
+		}
+	},
+	{
+		"content": "\u201cThe Biden administration has decided to cancel $0 in student debt.\u201d",
+		"source": "358i86sqcmg3zvg",
+		"user": "mxy8fmafaeb91s2",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 98.62,
+			"prob_positive": 1.38
+		}
+	},
+	{
+		"content": "\"Since 2013 alone, the Obama administration has allowed 300,000 criminal aliens to return back into United States communities. These are individuals encountered or identified by (Immigration and Customs Enforcement), but who were not detained or processed for deportation because it wouldn't have been politically correct.\"",
+		"source": "e74kay22o4gedg0",
+		"user": "5jj9yscrcye9g9d",
+		"prediction": { "classification": "credible", "prob_negative": 1.76, "prob_positive": 98.24 }
+	},
+	{
+		"content": "\"Biden elimina \u2018tr\u00e1fico sexual de menores\u2019 como una de las prioridades del Departamento de Justicia de su gobierno\u201d.",
+		"source": "gcppwnivx8lk6xo",
+		"user": "zp72blm0tepnhh9",
+		"prediction": { "classification": "not credible", "prob_negative": 100.0, "prob_positive": 0.0 }
+	},
+	{
+		"content": "Sweden had few COVID deaths in July, despite low vaccination rates, relaxed lockdown rules and low mask compliance.",
+		"source": "358i86sqcmg3zvg",
+		"user": "4c42n2w5c3078rh",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 99.99,
+			"prob_positive": 0.01
+		}
+	},
+	{
+		"content": "Former President Barack Obama gave Presidential Medals of Freedom to Bill Cosby, Anthony Weiner and Harvey Weinstein.",
+		"source": "358i86sqcmg3zvg",
+		"user": "pajqn36vjx3d9dr",
+		"prediction": { "classification": "not credible", "prob_negative": 100.0, "prob_positive": 0.0 }
+	},
+	{
+		"content": "Photo shows Rachel Levine\u2019s family.",
+		"source": "358i86sqcmg3zvg",
+		"user": "rw3d2jggnl378tq",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 99.95,
+			"prob_positive": 0.05
+		}
+	},
+	{
+		"content": "\u201cAARP endorses Biden and gives financial support to Planned Parenthood.\u201d",
+		"source": "358i86sqcmg3zvg",
+		"user": "pajqn36vjx3d9dr",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 95.87,
+			"prob_positive": 4.13
+		}
+	},
+	{
+		"content": "Says Donna Brazile is a \"criminal.\"",
+		"source": "358i86sqcmg3zvg",
+		"user": "zp72blm0tepnhh9",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 89.89,
+			"prob_positive": 10.11
+		}
+	},
+	{
+		"content": "U.S. Rep. Alexandria Ocasio-Cortez has secured a seat on the House Financial Services Committee but her \"credit score is 430 and has had two checking accounts closed, along with two sheriff's evictions.\"",
+		"source": "358i86sqcmg3zvg",
+		"user": "5jj9yscrcye9g9d",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 99.68,
+			"prob_positive": 0.32
+		}
+	},
+	{
+		"content": "\u201cCOVID ends next Wednesday.\u201d",
+		"source": "358i86sqcmg3zvg",
+		"user": "7uvlic815c0uuzw",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 94.95,
+			"prob_positive": 5.05
+		}
+	},
+	{
+		"content": "\"Less mass shootings under Trump!\"",
+		"source": "358i86sqcmg3zvg",
+		"user": "5jj9yscrcye9g9d",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 99.59,
+			"prob_positive": 0.41
+		}
+	},
+	{
+		"content": "A bill that could restrict free speech when the president is nearby was signed by President Barack Obama \"in secret.\"",
+		"source": "e74kay22o4gedg0",
+		"user": "zp72blm0tepnhh9",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 99.96,
+			"prob_positive": 0.04
+		}
+	},
+	{
+		"content": "Jim Jordan said, \u201cIt\u2019s finally happening! Adam Schiff will be impeached.\u201d",
+		"source": "358i86sqcmg3zvg",
+		"user": "73exwfqqmp7xt3b",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 99.98,
+			"prob_positive": 0.02
+		}
+	},
+	{
+		"content": "Says Joe Biden said, \u201cThis country is doomed, not just because of African Americans, but because by 2040 this country is going to be minority white European.\"",
+		"source": "pk76dpvtqj83byw",
+		"user": "5jj9yscrcye9g9d",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 99.91,
+			"prob_positive": 0.09
+		}
+	},
+	{
+		"content": "\u201c70% of Americans don't believe a word the mainstream media puts out,\u201d so \u201ceveryone who thinks Biden won are only 30% of the population.\u201d",
+		"source": "358i86sqcmg3zvg",
+		"user": "o3x0vnzb81lq0qk",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 99.66,
+			"prob_positive": 0.34
+		}
+	},
+	{
+		"content": "End of eviction moratorium means \u201cmillions of Americans\u201d could lose their housing in the middle of a pandemic.",
+		"source": "e74kay22o4gedg0",
+		"user": "zp72blm0tepnhh9",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 84.76,
+			"prob_positive": 15.24
+		}
+	},
+	{
+		"content": "Democrats used \u201c47 million mail-in ballots\u201d to steal \u201cevery election in the country.\u201d",
+		"source": "pk76dpvtqj83byw",
+		"user": "pajqn36vjx3d9dr",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 99.63,
+			"prob_positive": 0.37
+		}
+	},
+	{
+		"content": "A photo shows Barack Obama in front of \u201ccages\u201d built during his administration to hold migrants.",
+		"source": "358i86sqcmg3zvg",
+		"user": "pajqn36vjx3d9dr",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 99.97,
+			"prob_positive": 0.03
+		}
+	},
+	{
+		"content": "\u201cIt is harder to buy Sudafed than an AR-15 in Maine.\u201d",
+		"source": "e74kay22o4gedg0",
+		"user": "73exwfqqmp7xt3b",
+		"prediction": { "classification": "credible", "prob_negative": 30.65, "prob_positive": 69.35 }
+	},
+	{
+		"content": "California Gov. Gavin Newsom is \u201cnot human.\u201d",
+		"source": "pk76dpvtqj83byw",
+		"user": "7uvlic815c0uuzw",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 97.74,
+			"prob_positive": 2.26
+		}
+	},
+	{
+		"content": "Girl Scouts support \"Planned Parenthood and pro-abortion politicians.\"",
+		"source": "358i86sqcmg3zvg",
+		"user": "73exwfqqmp7xt3b",
+		"prediction": { "classification": "credible", "prob_negative": 44.16, "prob_positive": 55.84 }
+	},
+	{
+		"content": "Quotes Thomas Jefferson as saying that \"freedom is lost gradually from uninterested, uninformed and uninvolved people.\"",
+		"source": "358i86sqcmg3zvg",
+		"user": "4c42n2w5c3078rh",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 99.97,
+			"prob_positive": 0.03
+		}
+	},
+	{
+		"content": "\u201cParents who challenge school curriculums are domestic terrorist(s).\"",
+		"source": "pk76dpvtqj83byw",
+		"user": "49trvwx5yz6n9ye",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 93.08,
+			"prob_positive": 6.92
+		}
+	},
+	{
+		"content": "Says \"Kurt Russell supports Trump\" by wearing a Trump T-shirt.",
+		"source": "358i86sqcmg3zvg",
+		"user": "73exwfqqmp7xt3b",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 99.99,
+			"prob_positive": 0.01
+		}
+	},
+	{
+		"content": "President Donald Trump will hold his inauguration for a second term at Mar-a-Lago",
+		"source": "358i86sqcmg3zvg",
+		"user": "zp72blm0tepnhh9",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 99.95,
+			"prob_positive": 0.05
+		}
+	},
+	{
+		"content": "\"Switzerland (where the government) issues every household a gun . . . has the lowest gun related crime rate of any civilized country in the world!!!\"",
+		"source": "358i86sqcmg3zvg",
+		"user": "73exwfqqmp7xt3b",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 75.91,
+			"prob_positive": 24.09
+		}
+	},
+	{
+		"content": "Photos show Ukrainian citizens destroying two Russian tanks with Molotov cocktails in Kyiv.",
+		"source": "358i86sqcmg3zvg",
+		"user": "ozqtf28e443v1ni",
+		"prediction": { "classification": "not credible", "prob_negative": 100.0, "prob_positive": 0.0 }
+	},
+	{
+		"content": "\u201cKlaus Schwab announces the end of car ownership.\u201d",
+		"source": "pk76dpvtqj83byw",
+		"user": "5jj9yscrcye9g9d",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 99.81,
+			"prob_positive": 0.19
+		}
+	},
+	{
+		"content": "Donald Trump Jr. tweeted, \u201cWhile my father loves almost all his supporters, please do not come to Mar-a-Lago to support President Trump. We have many important people coming through the club and need to keep it clean.\u201d",
+		"source": "358i86sqcmg3zvg",
+		"user": "73exwfqqmp7xt3b",
+		"prediction": { "classification": "not credible", "prob_negative": 100.0, "prob_positive": 0.0 }
+	},
+	{
+		"content": "Quotes Sen. Mitt Romney as saying: \u201cThe Merrick Garland decision wasn\u2019t unfair & the notion that someone has to pay the price to make up for it is wrong.\u201d",
+		"source": "pk76dpvtqj83byw",
+		"user": "73exwfqqmp7xt3b",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 99.92,
+			"prob_positive": 0.08
+		}
+	},
+	{
+		"content": "The United States can\u2019t import baby formula because of the U.S.-Mexico-Canada Agreement.",
+		"source": "358i86sqcmg3zvg",
+		"user": "o3x0vnzb81lq0qk",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 64.03,
+			"prob_positive": 35.97
+		}
+	},
+	{
+		"content": "\u201cDue to the large number of people who will refuse the forthcoming COVID-19 vaccine because it will include tracking microchips, the Gates Foundation is now spending billions to ensure that all medical and dental injections and procedures include the chips.\u201d",
+		"source": "358i86sqcmg3zvg",
+		"user": "ozqtf28e443v1ni",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 99.81,
+			"prob_positive": 0.19
+		}
+	},
+	{
+		"content": "Video shows woman filling plastic bags with gas after Colonial Pipeline disruption.",
+		"source": "358i86sqcmg3zvg",
+		"user": "zp72blm0tepnhh9",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 99.98,
+			"prob_positive": 0.02
+		}
+	},
+	{
+		"content": "\"COVID-19 vaccines do not stop transmission of COVID, but instead increase it.\u201d",
+		"source": "358i86sqcmg3zvg",
+		"user": "rw3d2jggnl378tq",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 99.91,
+			"prob_positive": 0.09
+		}
+	},
+	{
+		"content": "Quotes Tom Brady as saying, \u201cIf anyone on my team kneels, I quit.\u201d",
+		"source": "e74kay22o4gedg0",
+		"user": "mxy8fmafaeb91s2",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 99.71,
+			"prob_positive": 0.29
+		}
+	},
+	{
+		"content": "Magnet video proves COVID-19 vaccines contain microchips.",
+		"source": "358i86sqcmg3zvg",
+		"user": "rw3d2jggnl378tq",
+		"prediction": { "classification": "not credible", "prob_negative": 100.0, "prob_positive": 0.0 }
+	},
+	{
+		"content": "\"Rick Perry ended full-day Pre-K for 100,000 Texas children.\"",
+		"source": "e74kay22o4gedg0",
+		"user": "5jj9yscrcye9g9d",
+		"prediction": { "classification": "credible", "prob_negative": 0.14, "prob_positive": 99.86 }
+	},
+	{
+		"content": "\u201cHarry could be exiled to Botswana after he was deported from the United States due to an expired visa.\u201d",
+		"source": "358i86sqcmg3zvg",
+		"user": "rw3d2jggnl378tq",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 97.45,
+			"prob_positive": 2.55
+		}
+	},
+	{
+		"content": "Two pipeline workers in the Chicago area were given fentanyl-laced water bottles.",
+		"source": "358i86sqcmg3zvg",
+		"user": "73exwfqqmp7xt3b",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 94.03,
+			"prob_positive": 5.97
+		}
+	},
+	{
+		"content": "Event 201 \u201cgave out stuffed souvenir coronavirus toys\u201d to \u201ccommemorate\u201d Novel coronavirus outbreak",
+		"source": "358i86sqcmg3zvg",
+		"user": "mxy8fmafaeb91s2",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 99.99,
+			"prob_positive": 0.01
+		}
+	},
+	{
+		"content": "\"As the CEO of HP, Carly Fiorina laid off 30,000 workers.\"",
+		"source": "e74kay22o4gedg0",
+		"user": "7uvlic815c0uuzw",
+		"prediction": { "classification": "credible", "prob_negative": 24.35, "prob_positive": 75.65 }
+	},
+	{
+		"content": "Biden gave Americans \u201cthe cheapest gas prices on Earth.\u201d",
+		"source": "e74kay22o4gedg0",
+		"user": "ozqtf28e443v1ni",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 97.69,
+			"prob_positive": 2.31
+		}
+	},
+	{
+		"content": "Says Dominion Voting System flipped votes to Joe Biden in states where Trump is bringing legal challenges.",
+		"source": "358i86sqcmg3zvg",
+		"user": "49trvwx5yz6n9ye",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 99.99,
+			"prob_positive": 0.01
+		}
+	},
+	{
+		"content": "Says John F. Kennedy said, \"What if we go to heaven and we, all our lives, have treated the Negro as an inferior, and God is there, and we look up and He is not white? What then is our response?\"",
+		"source": "358i86sqcmg3zvg",
+		"user": "4c42n2w5c3078rh",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 98.76,
+			"prob_positive": 1.24
+		}
+	},
+	{
+		"content": "Quotes Benjamin Franklin as saying \"We are all born ignorant, but one must work hard to remain stupid.\"",
+		"source": "358i86sqcmg3zvg",
+		"user": "mxy8fmafaeb91s2",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 99.78,
+			"prob_positive": 0.22
+		}
+	},
+	{
+		"content": "\u201cCovid-19 means \u2018certificate of identification of vaccination with artificial intelligence.\u2019\u201d",
+		"source": "358i86sqcmg3zvg",
+		"user": "4c42n2w5c3078rh",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 99.57,
+			"prob_positive": 0.43
+		}
+	},
+	{
+		"content": "Says Kanye West got 40,000 votes in the presidential election in Kentucky.",
+		"source": "pk76dpvtqj83byw",
+		"user": "73exwfqqmp7xt3b",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 99.19,
+			"prob_positive": 0.81
+		}
+	},
+	{
+		"content": "\"Since sequester began federal employment has been subtracting 6,000-7,000 jobs per month\"",
+		"source": "e74kay22o4gedg0",
+		"user": "rw3d2jggnl378tq",
+		"prediction": { "classification": "credible", "prob_negative": 0.19, "prob_positive": 99.81 }
+	},
+	{
+		"content": "\"Large, peer-reviewed research study proves ivermectin works\u201d as a COVID-19 preventative.",
+		"source": "358i86sqcmg3zvg",
+		"user": "pajqn36vjx3d9dr",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 99.71,
+			"prob_positive": 0.29
+		}
+	},
+	{
+		"content": "In New York City, \"for every one person experiencing homelessness here, there are about three\u00a0vacant apartments.\"",
+		"source": "e74kay22o4gedg0",
+		"user": "rw3d2jggnl378tq",
+		"prediction": { "classification": "credible", "prob_negative": 11.7, "prob_positive": 88.3 }
+	},
+	{
+		"content": "Texas agriculture is \"at 98 percent efficiency\" in water use and \"just about maxed out as to what we can do on the conservation end of it.\"",
+		"source": "e74kay22o4gedg0",
+		"user": "mxy8fmafaeb91s2",
+		"prediction": { "classification": "credible", "prob_negative": 47.4, "prob_positive": 52.6 }
+	},
+	{
+		"content": "Current immigration \"apprehension numbers are worse than the 'crisis' Biden/Obama/Pelosi acknowledged in 2014!\"",
+		"source": "358i86sqcmg3zvg",
+		"user": "ozqtf28e443v1ni",
+		"prediction": { "classification": "credible", "prob_negative": 29.25, "prob_positive": 70.75 }
+	},
+	{
+		"content": "The man pictured in a mugshot is not Derek Chauvin, the officer who was recorded kneeling on George Floyd\u2019s neck.",
+		"source": "358i86sqcmg3zvg",
+		"user": "4c42n2w5c3078rh",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 99.99,
+			"prob_positive": 0.01
+		}
+	},
+	{
+		"content": "In the U.S., myocarditis cases among ages 12 to 20 numbered four in 2019; four in 2020; and 2,236 in 2021.",
+		"source": "358i86sqcmg3zvg",
+		"user": "pajqn36vjx3d9dr",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 83.22,
+			"prob_positive": 16.78
+		}
+	},
+	{
+		"content": "\u201cThousands of U.S. troops make their way to Israel\u201d in video.",
+		"source": "gcppwnivx8lk6xo",
+		"user": "4c42n2w5c3078rh",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 99.97,
+			"prob_positive": 0.03
+		}
+	},
+	{
+		"content": "Video shows former President Donald Trump saying an impostor is pretending to be President Joe Biden.",
+		"source": "pk76dpvtqj83byw",
+		"user": "4c42n2w5c3078rh",
+		"prediction": { "classification": "not credible", "prob_negative": 100.0, "prob_positive": 0.0 }
+	},
+	{
+		"content": "\u201cUN cultural agency removes birthplace of Jesus from its list of heritage sites.\u201d",
+		"source": "358i86sqcmg3zvg",
+		"user": "pajqn36vjx3d9dr",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 96.53,
+			"prob_positive": 3.47
+		}
+	},
+	{
+		"content": "BLM Fresno riots will begin at 4 p.m. in River Park on 06/02/20",
+		"source": "358i86sqcmg3zvg",
+		"user": "zp72blm0tepnhh9",
+		"prediction": { "classification": "not credible", "prob_negative": 99.9, "prob_positive": 0.1 }
+	},
+	{
+		"content": "\u201cEpstein\u2019s recruiter Ghislaine Maxwell\u2019s father Robert Maxwell gave Mitt Romney his first $2M investment and started him in business.\u201d",
+		"source": "358i86sqcmg3zvg",
+		"user": "7uvlic815c0uuzw",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 99.53,
+			"prob_positive": 0.47
+		}
+	},
+	{
+		"content": "\"Senator Obama has the most liberal voting record in the United States Senate.\"",
+		"source": "e74kay22o4gedg0",
+		"user": "73exwfqqmp7xt3b",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 56.38,
+			"prob_positive": 43.62
+		}
+	},
+	{
+		"content": "Says that since 1975, redistricting by Texas lawmakers has always been found in violation of Section 5 of the Voting Rights Act.",
+		"source": "e74kay22o4gedg0",
+		"user": "pajqn36vjx3d9dr",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 91.08,
+			"prob_positive": 8.92
+		}
+	},
+	{
+		"content": "Golfer John Daly commented on soccer player Megan Rapinoe \u201cchoking\u201d during the World Cup.",
+		"source": "358i86sqcmg3zvg",
+		"user": "49trvwx5yz6n9ye",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 99.34,
+			"prob_positive": 0.66
+		}
+	},
+	{
+		"content": "An ongoing audit of the 2020 presidential election in Arizona \u201cshowed Trump ahead by 250,000\u201d votes, and \u201cnearly 950,000 ballots are declared illegal, nearly all for Biden.\u201d",
+		"source": "358i86sqcmg3zvg",
+		"user": "49trvwx5yz6n9ye",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 99.98,
+			"prob_positive": 0.02
+		}
+	},
+	{
+		"content": "Abigail Spanberger \"wants a tax increase of $32 trillion - that\u2019s with a `T,\u2019\u00a0to pay for her socialist health care plan.\"",
+		"source": "358i86sqcmg3zvg",
+		"user": "7uvlic815c0uuzw",
+		"prediction": { "classification": "credible", "prob_negative": 9.29, "prob_positive": 90.71 }
+	},
+	{
+		"content": "Says Alexandria Ocasio-Cortez spent $30,000 to attend the Met Gala and \u201cGod knows how much on that dress.\u201d",
+		"source": "358i86sqcmg3zvg",
+		"user": "ozqtf28e443v1ni",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 99.98,
+			"prob_positive": 0.02
+		}
+	},
+	{
+		"content": "Video shows a Federal Emergency Management Agency \u201cconcentration camp\u201d in Hawaii.",
+		"source": "358i86sqcmg3zvg",
+		"user": "ozqtf28e443v1ni",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 99.99,
+			"prob_positive": 0.01
+		}
+	},
+	{
+		"content": "Californians pay \"the highest electricity bills\" in the nation.",
+		"source": "e74kay22o4gedg0",
+		"user": "pajqn36vjx3d9dr",
+		"prediction": { "classification": "credible", "prob_negative": 11.59, "prob_positive": 88.41 }
+	},
+	{
+		"content": "Hospitals get paid $750 for patients who die from the flu, $17,500 for COVID-19.",
+		"source": "358i86sqcmg3zvg",
+		"user": "pajqn36vjx3d9dr",
+		"prediction": { "classification": "not credible", "prob_negative": 98.9, "prob_positive": 1.1 }
+	},
+	{
+		"content": "\u201cNon-essential people get to file for unemployment and make two to three times more than normal,\u201d but essential workers still on the job get no pay raise.",
+		"source": "358i86sqcmg3zvg",
+		"user": "49trvwx5yz6n9ye",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 64.58,
+			"prob_positive": 35.42
+		}
+	},
+	{
+		"content": "Says Tom Ford said about Melania Trump, \"I have no interest in dressing a glorified escort who steals speeches and has bad taste in men.\"",
+		"source": "358i86sqcmg3zvg",
+		"user": "49trvwx5yz6n9ye",
+		"prediction": { "classification": "not credible", "prob_negative": 100.0, "prob_positive": 0.0 }
+	},
+	{
+		"content": "Quotes Trump as saying \"would you really want a president who was dumb enough to let himself get drafted?\"",
+		"source": "358i86sqcmg3zvg",
+		"user": "7uvlic815c0uuzw",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 99.99,
+			"prob_positive": 0.01
+		}
+	},
+	{
+		"content": "\u201cMichigan Governor Gretchen Whitmer bans buying US flags during lockdown.\u201d",
+		"source": "358i86sqcmg3zvg",
+		"user": "5jj9yscrcye9g9d",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 99.56,
+			"prob_positive": 0.44
+		}
+	},
+	{
+		"content": "\u201cDr. Oz wins seat.\u201d",
+		"source": "358i86sqcmg3zvg",
+		"user": "4c42n2w5c3078rh",
+		"prediction": { "classification": "not credible", "prob_negative": 94.4, "prob_positive": 5.6 }
+	},
+	{
+		"content": "\u201c80% of women who have been jabbed have lost their children in the first trimester.\u201d",
+		"source": "358i86sqcmg3zvg",
+		"user": "mxy8fmafaeb91s2",
+		"prediction": { "classification": "not credible", "prob_negative": 94.0, "prob_positive": 6.0 }
+	},
+	{
+		"content": "\"In July 2010 the government said small businesses -- 60 percent -- will lose their health care, 45 percent of big business and a large percentage of individual health.\"",
+		"source": "e74kay22o4gedg0",
+		"user": "pajqn36vjx3d9dr",
+		"prediction": { "classification": "credible", "prob_negative": 0.39, "prob_positive": 99.61 }
+	},
+	{
+		"content": "American citizens \u201cpay $155 billion annually to make sure illegal immigrants are taken care of better than American citizens\u201d",
+		"source": "358i86sqcmg3zvg",
+		"user": "mxy8fmafaeb91s2",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 64.44,
+			"prob_positive": 35.56
+		}
+	},
+	{
+		"content": "\u201c... in 2013 Obama determined Social Security would not send checks through the USPS, because it was not secure\u201d",
+		"source": "358i86sqcmg3zvg",
+		"user": "49trvwx5yz6n9ye",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 91.76,
+			"prob_positive": 8.24
+		}
+	},
+	{
+		"content": "\"Border guards found 52 tons of guns and ammunition in 14 Conex containers disguised as furniture. This \u2018furniture\u2019 is from Muslim immigrants who have come to America\"",
+		"source": "358i86sqcmg3zvg",
+		"user": "7uvlic815c0uuzw",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 98.33,
+			"prob_positive": 1.67
+		}
+	},
+	{
+		"content": "Says Nancy Pelosi said, \"Building a wall will violate the rights of millions of illegals.\" \u200b",
+		"source": "358i86sqcmg3zvg",
+		"user": "rw3d2jggnl378tq",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 99.99,
+			"prob_positive": 0.01
+		}
+	},
+	{
+		"content": "Antarctica has \u201can entrance to a different world\u201d \u2014 a \u201cmythic land\u201d with green forests, giant animals, and \u201cextraterrestrial technologies.\u201d",
+		"source": "pk76dpvtqj83byw",
+		"user": "mxy8fmafaeb91s2",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 99.93,
+			"prob_positive": 0.07
+		}
+	},
+	{
+		"content": "\u201c118-year-old William Bradley voted via an absentee ballot in Wayne County, Michigan this year. William died in 1984. They\u2019re trying to steal this election.\u201d",
+		"source": "358i86sqcmg3zvg",
+		"user": "73exwfqqmp7xt3b",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 99.91,
+			"prob_positive": 0.09
+		}
+	},
+	{
+		"content": "\"80 percent of the (individual mandate) tax falls on those who make $50,000 a year or less.\"",
+		"source": "e74kay22o4gedg0",
+		"user": "5jj9yscrcye9g9d",
+		"prediction": { "classification": "credible", "prob_negative": 3.33, "prob_positive": 96.67 }
+	},
+	{
+		"content": "\"In terms of the wealthiest Americans, we're at the lowest tax rate since the 1950s.\"",
+		"source": "e74kay22o4gedg0",
+		"user": "o3x0vnzb81lq0qk",
+		"prediction": { "classification": "credible", "prob_negative": 0.23, "prob_positive": 99.77 }
+	},
+	{
+		"content": "Quotes Sen. Lindsey Graham as saying President Trump \u201cprobably knows more about medicine and specifically viruses than any of the so-called scientists at the NIH and CDC.\u201d",
+		"source": "358i86sqcmg3zvg",
+		"user": "zp72blm0tepnhh9",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 99.89,
+			"prob_positive": 0.11
+		}
+	},
+	{
+		"content": "\u201cNike lost a lawsuit against antisemitism and has to give away gift cards to its customers.\u201d",
+		"source": "358i86sqcmg3zvg",
+		"user": "rw3d2jggnl378tq",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 88.28,
+			"prob_positive": 11.72
+		}
+	},
+	{
+		"content": "Videos show former Secretary of State Hillary Clinton discussing a glass dome over Earth.",
+		"source": "pk76dpvtqj83byw",
+		"user": "mxy8fmafaeb91s2",
+		"prediction": { "classification": "not credible", "prob_negative": 100.0, "prob_positive": 0.0 }
+	},
+	{
+		"content": "Says Herman Cain died of cancer, not COVID-19.",
+		"source": "358i86sqcmg3zvg",
+		"user": "49trvwx5yz6n9ye",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 99.72,
+			"prob_positive": 0.28
+		}
+	},
+	{
+		"content": "A CNN report on 9/11 proved that a plane never hit the Pentagon.",
+		"source": "pk76dpvtqj83byw",
+		"user": "73exwfqqmp7xt3b",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 99.95,
+			"prob_positive": 0.05
+		}
+	},
+	{
+		"content": "\"How many concerts would Taylor Swift have to perform to pay off one day of interest on our national debt? She would have to perform every day for three years.\"",
+		"source": "358i86sqcmg3zvg",
+		"user": "5jj9yscrcye9g9d",
+		"prediction": { "classification": "credible", "prob_negative": 4.24, "prob_positive": 95.76 }
+	},
+	{
+		"content": "Hobby Lobby\u2019s CEO wrote a letter saying the company\u2019s stores may close.",
+		"source": "358i86sqcmg3zvg",
+		"user": "rw3d2jggnl378tq",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 99.96,
+			"prob_positive": 0.04
+		}
+	},
+	{
+		"content": "The IAEA, or the International Atomic Energy Agency, \"last month said the Iranians are not currently living up to their obligations.\"",
+		"source": "e74kay22o4gedg0",
+		"user": "73exwfqqmp7xt3b",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 68.55,
+			"prob_positive": 31.45
+		}
+	},
+	{
+		"content": "\"Our rainy day fund has gone from 89 cents to $240 million.\"",
+		"source": "e74kay22o4gedg0",
+		"user": "o3x0vnzb81lq0qk",
+		"prediction": { "classification": "credible", "prob_negative": 20.05, "prob_positive": 79.95 }
+	},
+	{
+		"content": "\"China has made enormous progress in its human rights. That is a fact recognized by all the people in the world.\"",
+		"source": "e74kay22o4gedg0",
+		"user": "pajqn36vjx3d9dr",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 72.72,
+			"prob_positive": 27.28
+		}
+	},
+	{
+		"content": "There are 500,000 \u201cmissing kids a year.\u201d",
+		"source": "358i86sqcmg3zvg",
+		"user": "5jj9yscrcye9g9d",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 97.26,
+			"prob_positive": 2.74
+		}
+	},
+	{
+		"content": "New Washington state law allows \u201cgovernment to take away minors from parents if they refuse to agree to gender-transition surgery.\u201d",
+		"source": "358i86sqcmg3zvg",
+		"user": "4c42n2w5c3078rh",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 99.67,
+			"prob_positive": 0.33
+		}
+	},
+	{
+		"content": "Says Chuck Norris recorded a video in response to the Biden administration saying, \u201cOur great country and freedom are under attack.\u201d",
+		"source": "358i86sqcmg3zvg",
+		"user": "pajqn36vjx3d9dr",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 99.99,
+			"prob_positive": 0.01
+		}
+	},
+	{
+		"content": "A photo from the Russia-Finland hockey game shows a sad Vladimir Putin and Dmitry Medvedev.",
+		"source": "e74kay22o4gedg0",
+		"user": "73exwfqqmp7xt3b",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 99.93,
+			"prob_positive": 0.07
+		}
+	},
+	{
+		"content": "Says if labor force participation rate were the same as when Barack Obama became president, unemployment would be 11 percent.",
+		"source": "e74kay22o4gedg0",
+		"user": "pajqn36vjx3d9dr",
+		"prediction": { "classification": "credible", "prob_negative": 6.49, "prob_positive": 93.51 }
+	},
+	{
+		"content": "\u201cIsrael just bombed and destroyed\u201d St. Porphyrius Church in Gaza on Oct. 9, 2023.",
+		"source": "pk76dpvtqj83byw",
+		"user": "5jj9yscrcye9g9d",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 99.96,
+			"prob_positive": 0.04
+		}
+	},
+	{
+		"content": "\u201cCoolmath Games is being taken down cause it was run by the Mexican drug cartel?\u201d",
+		"source": "358i86sqcmg3zvg",
+		"user": "rw3d2jggnl378tq",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 99.68,
+			"prob_positive": 0.32
+		}
+	},
+	{
+		"content": "\u201cFact: Mike Bloomberg spent $12 million to re-elect a Senate Republican (Toomey) in 2016. Toomey beat the Dem (McGinty) by 1.5 points. If McGinty had won, Ds would have controlled the Senate after Doug Jones won and could have blocked Kavanaugh from the Supreme Court.\u201d",
+		"source": "358i86sqcmg3zvg",
+		"user": "5jj9yscrcye9g9d",
+		"prediction": { "classification": "credible", "prob_negative": 9.18, "prob_positive": 90.82 }
+	},
+	{
+		"content": "\u201cLeftist justice reform\u201d is the reason that the NYC subway shooting suspect wasn\u2019t in jail at the time of the attack.",
+		"source": "358i86sqcmg3zvg",
+		"user": "zp72blm0tepnhh9",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 98.02,
+			"prob_positive": 1.98
+		}
+	},
+	{
+		"content": "\u201cThe MOB in PA was HIRED by the Biden team to create fake ballots by the thousands!!\u201d",
+		"source": "358i86sqcmg3zvg",
+		"user": "rw3d2jggnl378tq",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 99.99,
+			"prob_positive": 0.01
+		}
+	},
+	{
+		"content": "Ron Howard wrote a Facebook post about being a liberal.",
+		"source": "358i86sqcmg3zvg",
+		"user": "o3x0vnzb81lq0qk",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 99.91,
+			"prob_positive": 0.09
+		}
+	},
+	{
+		"content": "\u201cIt begins. Wisconsin Assembly votes to remove electoral votes from Biden.\u201d",
+		"source": "358i86sqcmg3zvg",
+		"user": "5jj9yscrcye9g9d",
+		"prediction": { "classification": "not credible", "prob_negative": 99.7, "prob_positive": 0.3 }
+	},
+	{
+		"content": "\u201cJoe Biden is no longer the President-elect according to RealClearPolitics.\u201d",
+		"source": "pk76dpvtqj83byw",
+		"user": "ozqtf28e443v1ni",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 94.25,
+			"prob_positive": 5.75
+		}
+	},
+	{
+		"content": "Under President Barack Obama, the United States has \"doubled our exports.\"",
+		"source": "e74kay22o4gedg0",
+		"user": "mxy8fmafaeb91s2",
+		"prediction": { "classification": "credible", "prob_negative": 35.83, "prob_positive": 64.17 }
+	},
+	{
+		"content": "Says Samuel L. Jackson said, \"Maybe if we underpaid these modern mumble rappers and overpaid teachers there would be smarter people in the future and less s-----\u00a0music.\"",
+		"source": "358i86sqcmg3zvg",
+		"user": "7uvlic815c0uuzw",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 99.32,
+			"prob_positive": 0.68
+		}
+	},
+	{
+		"content": "The Build Back Better bill provides \u201c'parole' amnesty for millions of criminal illegal aliens.\u201d",
+		"source": "358i86sqcmg3zvg",
+		"user": "o3x0vnzb81lq0qk",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 57.08,
+			"prob_positive": 42.92
+		}
+	},
+	{
+		"content": "\u201cMaxine Waters just introduced a bill to re-name Memorial Day \u2014 George Floyd Day.\"",
+		"source": "358i86sqcmg3zvg",
+		"user": "73exwfqqmp7xt3b",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 99.85,
+			"prob_positive": 0.15
+		}
+	},
+	{
+		"content": "Says Tim Tebow wrote, \u201cThe government might be preparing us for a cashless society, but it was predicted by the Bible.\u201d",
+		"source": "358i86sqcmg3zvg",
+		"user": "7uvlic815c0uuzw",
+		"prediction": { "classification": "not credible", "prob_negative": 100.0, "prob_positive": 0.0 }
+	},
+	{
+		"content": "\u201cGlobal warming is part of (a) natural cycle and there\u2019s nothing we can actually do to stop these cycles.\u201d",
+		"source": "358i86sqcmg3zvg",
+		"user": "7uvlic815c0uuzw",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 98.09,
+			"prob_positive": 1.91
+		}
+	},
+	{
+		"content": "\u201cCDC just cancelled Halloween for kids.\u201d",
+		"source": "358i86sqcmg3zvg",
+		"user": "49trvwx5yz6n9ye",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 93.71,
+			"prob_positive": 6.29
+		}
+	},
+	{
+		"content": "Trump supporters are heading to the border as the migrant caravan approaches.",
+		"source": "358i86sqcmg3zvg",
+		"user": "49trvwx5yz6n9ye",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 99.83,
+			"prob_positive": 0.17
+		}
+	},
+	{
+		"content": "\u201cScientists warn eggs are causing thousands of people to \u2018suddenly\u2019 form blood clots.\u201d",
+		"source": "358i86sqcmg3zvg",
+		"user": "73exwfqqmp7xt3b",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 99.75,
+			"prob_positive": 0.25
+		}
+	},
+	{
+		"content": "A New England Journal of Medicine study found that vaccinated people are \u201c5X more contagious than the unvaccinated 10 days after SARS-CoV-2 infection.\u201d",
+		"source": "358i86sqcmg3zvg",
+		"user": "mxy8fmafaeb91s2",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 99.93,
+			"prob_positive": 0.07
+		}
+	},
+	{
+		"content": "\"Ovnis desenterrados en Rusia\".",
+		"source": "358i86sqcmg3zvg",
+		"user": "rw3d2jggnl378tq",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 99.81,
+			"prob_positive": 0.19
+		}
+	},
+	{
+		"content": "Says President Joe Biden promoted \"mandatory vaccines for everybody\" in his March 11 address.",
+		"source": "358i86sqcmg3zvg",
+		"user": "zp72blm0tepnhh9",
+		"prediction": { "classification": "not credible", "prob_negative": 100.0, "prob_positive": 0.0 }
+	},
+	{
+		"content": "The Internal Revenue Service spent $60,000 on a \"Star Trek\" training video.",
+		"source": "e74kay22o4gedg0",
+		"user": "ozqtf28e443v1ni",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 98.06,
+			"prob_positive": 1.94
+		}
+	},
+	{
+		"content": "\"Hidden in the CARES Act was an obscure $135 billion tax break for 43,000 millionaires.\"",
+		"source": "358i86sqcmg3zvg",
+		"user": "5jj9yscrcye9g9d",
+		"prediction": { "classification": "credible", "prob_negative": 25.73, "prob_positive": 74.27 }
+	},
+	{
+		"content": "\u201cPelosi\u2019s $1.9 trillion bailout gives EVERY federal employee a $21,000 bonus check\u2026 they never lost their job!\u201d",
+		"source": "358i86sqcmg3zvg",
+		"user": "ozqtf28e443v1ni",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 60.92,
+			"prob_positive": 39.08
+		}
+	},
+	{
+		"content": "News outlets reported that the Nashville bomber died of COVID-19.",
+		"source": "358i86sqcmg3zvg",
+		"user": "pajqn36vjx3d9dr",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 99.99,
+			"prob_positive": 0.01
+		}
+	},
+	{
+		"content": "\u201cWashington public school forces unvaccinated teens to wear ankle monitors\u201d as a condition of playing team sports.",
+		"source": "358i86sqcmg3zvg",
+		"user": "ozqtf28e443v1ni",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 99.34,
+			"prob_positive": 0.66
+		}
+	},
+	{
+		"content": "\"To say a family has to buy a product from a private company is clearly beyond the delegated powers of the U.S. Constitution.\"",
+		"source": "e74kay22o4gedg0",
+		"user": "73exwfqqmp7xt3b",
+		"prediction": { "classification": "not credible", "prob_negative": 96.2, "prob_positive": 3.8 }
+	},
+	{
+		"content": "\"The numbers of people that support Obamacare and like it have been steadily dropping.\"",
+		"source": "e74kay22o4gedg0",
+		"user": "pajqn36vjx3d9dr",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 58.78,
+			"prob_positive": 41.22
+		}
+	},
+	{
+		"content": "Video shows people collapsing because of COVID-19 vaccines.",
+		"source": "pk76dpvtqj83byw",
+		"user": "o3x0vnzb81lq0qk",
+		"prediction": { "classification": "not credible", "prob_negative": 100.0, "prob_positive": 0.0 }
+	},
+	{
+		"content": "Says Alexandria Ocasio-Cortez's net worth is \u201cover $1 million.\u201d",
+		"source": "358i86sqcmg3zvg",
+		"user": "zp72blm0tepnhh9",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 99.29,
+			"prob_positive": 0.71
+		}
+	},
+	{
+		"content": "\u201cUnited States Navy Seal Team ... helicopter was shot down yesterday in Afghanistan and they lost 30 members of the team.\u201d",
+		"source": "358i86sqcmg3zvg",
+		"user": "4c42n2w5c3078rh",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 99.95,
+			"prob_positive": 0.05
+		}
+	},
+	{
+		"content": "\"President Trump's net gain while in office $0, Nancy Pelosi's net gain while in office $191 million.\"",
+		"source": "pk76dpvtqj83byw",
+		"user": "49trvwx5yz6n9ye",
+		"prediction": { "classification": "not credible", "prob_negative": 99.9, "prob_positive": 0.1 }
+	},
+	{
+		"content": "Says Anthony Fauci\u2019s wife has \u201ca secret plan to put psych drugs in drinking water\u201d to get people vaccinated.",
+		"source": "pk76dpvtqj83byw",
+		"user": "rw3d2jggnl378tq",
+		"prediction": { "classification": "not credible", "prob_negative": 100.0, "prob_positive": 0.0 }
+	},
+	{
+		"content": "The number of people who \"believe\u00a0in\u00a0socialism ...\u00a0is increasing.\"",
+		"source": "e74kay22o4gedg0",
+		"user": "49trvwx5yz6n9ye",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 87.01,
+			"prob_positive": 12.99
+		}
+	},
+	{
+		"content": "Falleci\u00f3 el papa em\u00e9rito Benedicto XVI.",
+		"source": "pk76dpvtqj83byw",
+		"user": "pajqn36vjx3d9dr",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 99.61,
+			"prob_positive": 0.39
+		}
+	},
+	{
+		"content": "Says video shows \"Ukrainian forces shoot down Russian plane carrying hundreds (of) troops on Kyiv airport.\"",
+		"source": "358i86sqcmg3zvg",
+		"user": "49trvwx5yz6n9ye",
+		"prediction": { "classification": "not credible", "prob_negative": 100.0, "prob_positive": 0.0 }
+	},
+	{
+		"content": "Digital IDs were given to residents in East Palestine, Ohio, \u201cto track long term health problems like difficulty breathing\u201d before the Feb. 3 train derailment.",
+		"source": "pk76dpvtqj83byw",
+		"user": "zp72blm0tepnhh9",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 93.07,
+			"prob_positive": 6.93
+		}
+	},
+	{
+		"content": "\"Between Austin, San Antonio, Houston and Dallas over 8,000 same-sex couples are raising children.\"",
+		"source": "e74kay22o4gedg0",
+		"user": "73exwfqqmp7xt3b",
+		"prediction": { "classification": "credible", "prob_negative": 9.76, "prob_positive": 90.24 }
+	},
+	{
+		"content": "\"794 law enforcement officers have fallen in the line of duty since B.H. Obama took office, with no special recognition from the White House.\"",
+		"source": "358i86sqcmg3zvg",
+		"user": "mxy8fmafaeb91s2",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 86.84,
+			"prob_positive": 13.16
+		}
+	},
+	{
+		"content": "Says it probably costs more than $300,000 to run for a seat on the Pedernales Electric Cooperative board of directors.",
+		"source": "e74kay22o4gedg0",
+		"user": "49trvwx5yz6n9ye",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 99.05,
+			"prob_positive": 0.95
+		}
+	},
+	{
+		"content": "\u201cBill Gates: People who resist \u2018mRNA tsunami\u2019 will be excluded from society.\u201d",
+		"source": "pk76dpvtqj83byw",
+		"user": "o3x0vnzb81lq0qk",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 99.06,
+			"prob_positive": 0.94
+		}
+	},
+	{
+		"content": "Says Jen Psaki said Joe Biden wants to protect \u201cmarked people.\u201d",
+		"source": "pk76dpvtqj83byw",
+		"user": "rw3d2jggnl378tq",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 99.99,
+			"prob_positive": 0.01
+		}
+	},
+	{
+		"content": "\"Rick Scott's even saying he wants more offshore drilling.\"",
+		"source": "e74kay22o4gedg0",
+		"user": "o3x0vnzb81lq0qk",
+		"prediction": { "classification": "credible", "prob_negative": 29.35, "prob_positive": 70.65 }
+	},
+	{
+		"content": "\"The city (of St. Louis) is no stranger to violence. There were 5,762 violent crimes in 2015 alone, including 188 homicides. The highest rate per capita in the country, according to FBI crime statistics.\"",
+		"source": "e74kay22o4gedg0",
+		"user": "73exwfqqmp7xt3b",
+		"prediction": { "classification": "credible", "prob_negative": 0.01, "prob_positive": 99.99 }
+	},
+	{
+		"content": "\"In 2010, Maxine Waters steered $12 million in TARP funds to her husband\u2019s private bank account. She was indicted but served no time.\"",
+		"source": "358i86sqcmg3zvg",
+		"user": "49trvwx5yz6n9ye",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 99.86,
+			"prob_positive": 0.14
+		}
+	},
+	{
+		"content": "Says Florida Gov. Rick Scott \"subtracted $1.3 billion from public schools.\"",
+		"source": "358i86sqcmg3zvg",
+		"user": "ozqtf28e443v1ni",
+		"prediction": { "classification": "credible", "prob_negative": 26.02, "prob_positive": 73.98 }
+	},
+	{
+		"content": "Says Elizabeth Warren, asked about the Mollie Tibbetts murder, said \u201cI know this is hard for her family, but they have to remember that we need to focus on real problems, like illegal immigrants not being able to see their kids.\u201d",
+		"source": "358i86sqcmg3zvg",
+		"user": "73exwfqqmp7xt3b",
+		"prediction": { "classification": "not credible", "prob_negative": 100.0, "prob_positive": 0.0 }
+	},
+	{
+		"content": "\u201cDr. Fauci: No reason to be wearing a mask.\u201d",
+		"source": "358i86sqcmg3zvg",
+		"user": "o3x0vnzb81lq0qk",
+		"prediction": { "classification": "not credible", "prob_negative": 99.8, "prob_positive": 0.2 }
+	},
+	{
+		"content": "\"90% of Americans do not support universal background checks.\"",
+		"source": "358i86sqcmg3zvg",
+		"user": "5jj9yscrcye9g9d",
+		"prediction": { "classification": "credible", "prob_negative": 40.11, "prob_positive": 59.89 }
+	},
+	{
+		"content": "\u201cAt least 450,000 ballots in the key states ... miraculously only have a mark for Joe Biden on them, and no other candidate.\"",
+		"source": "e74kay22o4gedg0",
+		"user": "mxy8fmafaeb91s2",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 87.73,
+			"prob_positive": 12.27
+		}
+	},
+	{
+		"content": "Joe Biden launched unarmed nuclear bombs as a \u201cRussia threat.\u201d",
+		"source": "gcppwnivx8lk6xo",
+		"user": "pajqn36vjx3d9dr",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 99.96,
+			"prob_positive": 0.04
+		}
+	},
+	{
+		"content": "Video shows Ukraine was \u201cnuked.\u201d",
+		"source": "358i86sqcmg3zvg",
+		"user": "pajqn36vjx3d9dr",
+		"prediction": { "classification": "not credible", "prob_negative": 100.0, "prob_positive": 0.0 }
+	},
+	{
+		"content": "\u201cBiden administration quietly DROPS all charges against Sam Bankman-Fried.\u201d",
+		"source": "pk76dpvtqj83byw",
+		"user": "pajqn36vjx3d9dr",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 97.34,
+			"prob_positive": 2.66
+		}
+	},
+	{
+		"content": "Photos of the Statue of Liberty taken in 1920 and 2020 show that the sea level hasn\u2019t changed.",
+		"source": "pk76dpvtqj83byw",
+		"user": "mxy8fmafaeb91s2",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 99.99,
+			"prob_positive": 0.01
+		}
+	},
+	{
+		"content": "\"More Tennesseans have hunting and fishing licenses than vote.\"",
+		"source": "e74kay22o4gedg0",
+		"user": "rw3d2jggnl378tq",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 52.89,
+			"prob_positive": 47.11
+		}
+	},
+	{
+		"content": "Brazil\u2019s presidential election was \u201cstolen.\u201d",
+		"source": "pk76dpvtqj83byw",
+		"user": "pajqn36vjx3d9dr",
+		"prediction": { "classification": "not credible", "prob_negative": 99.6, "prob_positive": 0.4 }
+	},
+	{
+		"content": "\"Wisconsin has seen over 63 billion dollars of federal pandemic-related funding funnel into our state over (Gov. Tony Evers') tenure.\"",
+		"source": "e74kay22o4gedg0",
+		"user": "pajqn36vjx3d9dr",
+		"prediction": { "classification": "credible", "prob_negative": 0.38, "prob_positive": 99.62 }
+	},
+	{
+		"content": "The Centers for Disease Control and Prevention has amassed the \u201clargest collection of human data in history\u201d through COVID-19 PCR tests.",
+		"source": "pk76dpvtqj83byw",
+		"user": "7uvlic815c0uuzw",
+		"prediction": { "classification": "not credible", "prob_negative": 100.0, "prob_positive": 0.0 }
+	},
+	{
+		"content": "\u201cJust passed into law today: You cannot go 5 miles over speed limit\u201d in North Carolina.",
+		"source": "358i86sqcmg3zvg",
+		"user": "49trvwx5yz6n9ye",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 92.63,
+			"prob_positive": 7.37
+		}
+	},
+	{
+		"content": "Kari Lake\u2019s lawsuit \u201cexposes Arizona used no signature verification.\u201d",
+		"source": "358i86sqcmg3zvg",
+		"user": "73exwfqqmp7xt3b",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 97.74,
+			"prob_positive": 2.26
+		}
+	},
+	{
+		"content": "\u201c50 U.S. politicians who received satellite phones were taken to an undisclosed government bunker facility to ensure a Continuation of Government.\u201d",
+		"source": "358i86sqcmg3zvg",
+		"user": "4c42n2w5c3078rh",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 68.48,
+			"prob_positive": 31.52
+		}
+	},
+	{
+		"content": "Photo shows the freedom convoy in Canberra, Australia, with over 1.5 million cars.",
+		"source": "358i86sqcmg3zvg",
+		"user": "73exwfqqmp7xt3b",
+		"prediction": { "classification": "not credible", "prob_negative": 100.0, "prob_positive": 0.0 }
+	},
+	{
+		"content": "Stacks of bricks are showing up in Denver because \u201cthe Evil Left is getting ready to destroy downtown.\u201d",
+		"source": "358i86sqcmg3zvg",
+		"user": "rw3d2jggnl378tq",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 99.99,
+			"prob_positive": 0.01
+		}
+	},
+	{
+		"content": "\"Marco Rubio's 'red flag' gun confiscation bill\" calls for guns to be confiscated \"without due process, based on unsubstantiated accusations.\"",
+		"source": "358i86sqcmg3zvg",
+		"user": "4c42n2w5c3078rh",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 98.03,
+			"prob_positive": 1.97
+		}
+	},
+	{
+		"content": "\"New government-funded 'food pyramid' says Lucky Charms are healthier than steak.\"",
+		"source": "pk76dpvtqj83byw",
+		"user": "7uvlic815c0uuzw",
+		"prediction": { "classification": "not credible", "prob_negative": 98.4, "prob_positive": 1.6 }
+	},
+	{
+		"content": "Says actor Dwayne \"The Rock\" Johnson wore a T-shirt stating: \"We Stand for the flag, we kneel for the fallen.\"",
+		"source": "358i86sqcmg3zvg",
+		"user": "rw3d2jggnl378tq",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 99.88,
+			"prob_positive": 0.12
+		}
+	},
+	{
+		"content": "\"Richard Hayne, president and CEO of Urban Outfitters \u2026 (is) a supporter of Rick Santorum and donated over $13,000 to him.\"",
+		"source": "358i86sqcmg3zvg",
+		"user": "7uvlic815c0uuzw",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 98.65,
+			"prob_positive": 1.35
+		}
+	},
+	{
+		"content": "MMA fighter Victoria Lee died because of a COVID-19 vaccine.",
+		"source": "358i86sqcmg3zvg",
+		"user": "ozqtf28e443v1ni",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 99.98,
+			"prob_positive": 0.02
+		}
+	},
+	{
+		"content": "\"At least 10 ISIS fighters have been caught coming across the Mexican border in Texas\" and there are \"dozens more that did not get caught by the Border Patrol.\"",
+		"source": "e74kay22o4gedg0",
+		"user": "mxy8fmafaeb91s2",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 82.12,
+			"prob_positive": 17.88
+		}
+	},
+	{
+		"content": "Video shows man diving off a high bridge and into a swimming pool on a moving boat.",
+		"source": "358i86sqcmg3zvg",
+		"user": "49trvwx5yz6n9ye",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 99.92,
+			"prob_positive": 0.08
+		}
+	},
+	{
+		"content": "This video shows \u201cRussian war in Ukraine.\u201d",
+		"source": "358i86sqcmg3zvg",
+		"user": "pajqn36vjx3d9dr",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 99.98,
+			"prob_positive": 0.02
+		}
+	},
+	{
+		"content": "Voting machines didn\u2019t work in heavily GOP areas for the Georgia runoff elections, leaving some voters unable to cast ballots.",
+		"source": "358i86sqcmg3zvg",
+		"user": "zp72blm0tepnhh9",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 99.84,
+			"prob_positive": 0.16
+		}
+	},
+	{
+		"content": "Says an image of armed anti-lockdown protesters and an image of unarmed Minneapolis protesters being tear gassed were taken in the \u201csame state, same month.\u201d",
+		"source": "358i86sqcmg3zvg",
+		"user": "5jj9yscrcye9g9d",
+		"prediction": { "classification": "not credible", "prob_negative": 100.0, "prob_positive": 0.0 }
+	},
+	{
+		"content": "Says Jared Kushner \u201cdeleted all of his tweets after the tax story broke.\u201d",
+		"source": "358i86sqcmg3zvg",
+		"user": "rw3d2jggnl378tq",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 96.75,
+			"prob_positive": 3.25
+		}
+	},
+	{
+		"content": "Says in his years as a Texas legislator, \"we passed three pay increases for teachers and provided them with health insurance.\"",
+		"source": "358i86sqcmg3zvg",
+		"user": "pajqn36vjx3d9dr",
+		"prediction": { "classification": "credible", "prob_negative": 0.45, "prob_positive": 99.55 }
+	},
+	{
+		"content": "\"Ted Cruz says owning a gun should be as hassle free as owning a car, which as I recall requires a license and registration.\"",
+		"source": "358i86sqcmg3zvg",
+		"user": "4c42n2w5c3078rh",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 93.36,
+			"prob_positive": 6.64
+		}
+	},
+	{
+		"content": "\"AirPods are essentially microwaving your brain.\u201d",
+		"source": "pk76dpvtqj83byw",
+		"user": "o3x0vnzb81lq0qk",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 97.71,
+			"prob_positive": 2.29
+		}
+	},
+	{
+		"content": "\"There is no state in the U.S. where a 40-hour minimum wage work week is enough to afford a two-bedroom apartment.\"",
+		"source": "358i86sqcmg3zvg",
+		"user": "5jj9yscrcye9g9d",
+		"prediction": { "classification": "credible", "prob_negative": 6.7, "prob_positive": 93.3 }
+	},
+	{
+		"content": "\"Las naves extraterrestres se camuflan con nubes sobre la nave\u201d.",
+		"source": "358i86sqcmg3zvg",
+		"user": "ozqtf28e443v1ni",
+		"prediction": { "classification": "not credible", "prob_negative": 100.0, "prob_positive": 0.0 }
+	},
+	{
+		"content": "Supervisores del TSA de Estados Unidos tuvieron una junta y \"para mediados de octubre van a decir que cualquiera persona que vaya a volar, va a tener que usar el tapabocas otra vez\".",
+		"source": "358i86sqcmg3zvg",
+		"user": "zp72blm0tepnhh9",
+		"prediction": { "classification": "not credible", "prob_negative": 100.0, "prob_positive": 0.0 }
+	},
+	{
+		"content": "\u201cOklahoma 100% coronavirus test rate after Trump Tulsa rally.\u201d",
+		"source": "358i86sqcmg3zvg",
+		"user": "73exwfqqmp7xt3b",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 99.38,
+			"prob_positive": 0.62
+		}
+	},
+	{
+		"content": "\"Young veterans have a higher unemployment rate than people who didn\u2019t serve.\"",
+		"source": "e74kay22o4gedg0",
+		"user": "mxy8fmafaeb91s2",
+		"prediction": { "classification": "credible", "prob_negative": 10.34, "prob_positive": 89.66 }
+	},
+	{
+		"content": "\u201cOnly 6% of the people actually died from COVID.\u201d The others \u201cdied from other reasons.\u201d",
+		"source": "e74kay22o4gedg0",
+		"user": "rw3d2jggnl378tq",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 97.19,
+			"prob_positive": 2.81
+		}
+	},
+	{
+		"content": "\u201cNot one politician has died from the virus.\u201d",
+		"source": "358i86sqcmg3zvg",
+		"user": "5jj9yscrcye9g9d",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 97.82,
+			"prob_positive": 2.18
+		}
+	},
+	{
+		"content": "Guantanamo has \"never been a key component of ISIS or al-Qaida propaganda.\"",
+		"source": "e74kay22o4gedg0",
+		"user": "5jj9yscrcye9g9d",
+		"prediction": { "classification": "credible", "prob_negative": 2.47, "prob_positive": 97.53 }
+	},
+	{
+		"content": "Says photo of Malia Obama's credit card next to white powder was found on Hunter Biden's laptop.",
+		"source": "pk76dpvtqj83byw",
+		"user": "4c42n2w5c3078rh",
+		"prediction": { "classification": "not credible", "prob_negative": 100.0, "prob_positive": 0.0 }
+	},
+	{
+		"content": "The National Parks Service posted about children who have been freed from human traffickers.",
+		"source": "pk76dpvtqj83byw",
+		"user": "4c42n2w5c3078rh",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 99.95,
+			"prob_positive": 0.05
+		}
+	},
+	{
+		"content": "A clip of Joe Biden shows him reading a response to an interview question from a teleprompter, saying \u201cI lost that line.\u201d",
+		"source": "pk76dpvtqj83byw",
+		"user": "7uvlic815c0uuzw",
+		"prediction": { "classification": "not credible", "prob_negative": 100.0, "prob_positive": 0.0 }
+	},
+	{
+		"content": "\u201cThe State of Florida has announced measures that all workplaces with 10 employees or more are to have paid mandatory leave to avoid the spread of COVID-19 coronavirus starting on March 6, 2020. All schools are to close for 2 weeks also from March 6th.\u201d",
+		"source": "358i86sqcmg3zvg",
+		"user": "rw3d2jggnl378tq",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 99.83,
+			"prob_positive": 0.17
+		}
+	},
+	{
+		"content": "\u201cBill Gates arrest warrant issued in Philippines for \u2018premeditated murder\u2019 linked to vaccine roll out.\u201d",
+		"source": "pk76dpvtqj83byw",
+		"user": "pajqn36vjx3d9dr",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 99.99,
+			"prob_positive": 0.01
+		}
+	},
+	{
+		"content": "\"Since 2010, student debt has increased by 102% and real wages have fallen by over 8%.\u201d",
+		"source": "e74kay22o4gedg0",
+		"user": "mxy8fmafaeb91s2",
+		"prediction": { "classification": "credible", "prob_negative": 0.58, "prob_positive": 99.42 }
+	},
+	{
+		"content": "A photo of Ukrainians with paintball guns proves the war is staged.",
+		"source": "358i86sqcmg3zvg",
+		"user": "pajqn36vjx3d9dr",
+		"prediction": { "classification": "not credible", "prob_negative": 100.0, "prob_positive": 0.0 }
+	},
+	{
+		"content": "Quotes Joe Biden as saying \u201cpeople who have never died before are now dying from coronavirus.\u201d",
+		"source": "358i86sqcmg3zvg",
+		"user": "49trvwx5yz6n9ye",
+		"prediction": { "classification": "not credible", "prob_negative": 100.0, "prob_positive": 0.0 }
+	},
+	{
+		"content": "\"We have the lowest percentage of Americans working today of any year since 1977.\"",
+		"source": "e74kay22o4gedg0",
+		"user": "rw3d2jggnl378tq",
+		"prediction": { "classification": "credible", "prob_negative": 3.65, "prob_positive": 96.35 }
+	},
+	{
+		"content": "Says a federal program that collects reported side-effects of vaccinations doesn\u2019t accept possible outcomes extending to road accidents, heart attacks or suicides.",
+		"source": "e74kay22o4gedg0",
+		"user": "49trvwx5yz6n9ye",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 99.79,
+			"prob_positive": 0.21
+		}
+	},
+	{
+		"content": "\u201cFeds Seize 19,888 Fake State Driver Licenses (Made in China) in Chicago O'Hare Airport - ALL Registered to Vote -- ALL Demorats!\u201d",
+		"source": "358i86sqcmg3zvg",
+		"user": "4c42n2w5c3078rh",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 99.86,
+			"prob_positive": 0.14
+		}
+	},
+	{
+		"content": "Photo shows Hillary Clinton on a \u201clethal injection medical table.\u201d",
+		"source": "358i86sqcmg3zvg",
+		"user": "pajqn36vjx3d9dr",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 99.99,
+			"prob_positive": 0.01
+		}
+	},
+	{
+		"content": "\"What has happened since 2005? We\u2019ve seen violent crime continuously go down\" due to Florida's \"stand your ground\" law.",
+		"source": "e74kay22o4gedg0",
+		"user": "73exwfqqmp7xt3b",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 94.86,
+			"prob_positive": 5.14
+		}
+	},
+	{
+		"content": "\"148th Kentucky Derby winner Rich Strike jockey Sonny Leon just turned down a White House invite, saying 'If I wanted to see a horse's ass, I would have came (sic) in second.\u2019\"",
+		"source": "358i86sqcmg3zvg",
+		"user": "pajqn36vjx3d9dr",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 99.91,
+			"prob_positive": 0.09
+		}
+	},
+	{
+		"content": "The government must have planned the coronavirus pandemic because the coronavirus relief bill had been introduced three years earlier.",
+		"source": "358i86sqcmg3zvg",
+		"user": "5jj9yscrcye9g9d",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 97.59,
+			"prob_positive": 2.41
+		}
+	},
+	{
+		"content": "75 doctors in South Florida walked out in protest as their hospital was flooded with unvaccinated COVID-19 patients",
+		"source": "pk76dpvtqj83byw",
+		"user": "ozqtf28e443v1ni",
+		"prediction": { "classification": "not credible", "prob_negative": 100.0, "prob_positive": 0.0 }
+	},
+	{
+		"content": "Early morning election results from Michigan and Wisconsin show voter fraud.",
+		"source": "358i86sqcmg3zvg",
+		"user": "4c42n2w5c3078rh",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 99.93,
+			"prob_positive": 0.07
+		}
+	},
+	{
+		"content": "\"[Georgia] Republicans have mismanaged unemployment benefits.\"",
+		"source": "358i86sqcmg3zvg",
+		"user": "ozqtf28e443v1ni",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 71.41,
+			"prob_positive": 28.59
+		}
+	},
+	{
+		"content": "\"When is a farm bill not a farm bill? When 90 percent of it is for food stamps.\"",
+		"source": "e74kay22o4gedg0",
+		"user": "ozqtf28e443v1ni",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 88.77,
+			"prob_positive": 11.23
+		}
+	},
+	{
+		"content": "Audio is of \u201cthe knocking they caught from the submarine\u201d that imploded on the way to view the Titanic wreckage.",
+		"source": "358i86sqcmg3zvg",
+		"user": "5jj9yscrcye9g9d",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 98.74,
+			"prob_positive": 1.26
+		}
+	},
+	{
+		"content": "Surface temperatures on Earth \"have stabilized.\"",
+		"source": "e74kay22o4gedg0",
+		"user": "rw3d2jggnl378tq",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 93.87,
+			"prob_positive": 6.13
+		}
+	},
+	{
+		"content": "Federal agents are going \u201cdoor-to-door coercing people to be injected with experimental drugs.\u201d",
+		"source": "pk76dpvtqj83byw",
+		"user": "pajqn36vjx3d9dr",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 99.88,
+			"prob_positive": 0.12
+		}
+	},
+	{
+		"content": "The life span of a wind tower generator lasts just three to four years.",
+		"source": "358i86sqcmg3zvg",
+		"user": "rw3d2jggnl378tq",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 90.71,
+			"prob_positive": 9.29
+		}
+	},
+	{
+		"content": "\"Books banned in Texas include 1984, Maus, and The Handmaid's Tale, but not Mein Kampf.\"",
+		"source": "e74kay22o4gedg0",
+		"user": "rw3d2jggnl378tq",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 80.53,
+			"prob_positive": 19.47
+		}
+	},
+	{
+		"content": "The CDC lifting mask guidelines \u201cout of the blue with no solid explanation proves they lied to you the whole time about everything.\u201d",
+		"source": "358i86sqcmg3zvg",
+		"user": "pajqn36vjx3d9dr",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 99.95,
+			"prob_positive": 0.05
+		}
+	},
+	{
+		"content": "Putin beheaded bioweapon engineers in Ukraine.",
+		"source": "358i86sqcmg3zvg",
+		"user": "zp72blm0tepnhh9",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 99.17,
+			"prob_positive": 0.83
+		}
+	},
+	{
+		"content": "Says actor Kurt Russell said this about the police.",
+		"source": "358i86sqcmg3zvg",
+		"user": "7uvlic815c0uuzw",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 99.94,
+			"prob_positive": 0.06
+		}
+	},
+	{
+		"content": "There is documentation of bull sharks in the Great Lakes.",
+		"source": "pk76dpvtqj83byw",
+		"user": "7uvlic815c0uuzw",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 99.47,
+			"prob_positive": 0.53
+		}
+	},
+	{
+		"content": "\"The government will be infiltrating\u201d personal text messages.",
+		"source": "358i86sqcmg3zvg",
+		"user": "ozqtf28e443v1ni",
+		"prediction": { "classification": "not credible", "prob_negative": 99.7, "prob_positive": 0.3 }
+	},
+	{
+		"content": "Video shows Russian artillery tanks \u201ccompletely destroyed by Bayraktar TB2 drones\u201d on July 2.",
+		"source": "358i86sqcmg3zvg",
+		"user": "73exwfqqmp7xt3b",
+		"prediction": { "classification": "not credible", "prob_negative": 100.0, "prob_positive": 0.0 }
+	},
+	{
+		"content": "\"If you look up the dictionary definition of happiness at the time of our founders \u2026 happiness was not doing what you want to do but doing what you ought to do.\"",
+		"source": "e74kay22o4gedg0",
+		"user": "rw3d2jggnl378tq",
+		"prediction": { "classification": "credible", "prob_negative": 31.32, "prob_positive": 68.68 }
+	},
+	{
+		"content": "\"CORONAVIRUS: Reports of 10,000 DEAD in Wuhan, China.\"",
+		"source": "358i86sqcmg3zvg",
+		"user": "o3x0vnzb81lq0qk",
+		"prediction": {
+			"classification": "not credible",
+			"prob_negative": 99.94,
+			"prob_positive": 0.06
+		}
+	}
+]

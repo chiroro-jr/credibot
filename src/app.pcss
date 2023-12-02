@@ -1,0 +1,30 @@
+/* Write your global styles here, in PostCSS syntax */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+	.bg-orange-gradient {
+		background-image: linear-gradient(to right, rgb(251, 146, 60), rgb(251, 113, 133));
+	}
+
+	.bg-blue-gradient {
+		background-image: linear-gradient(to right, rgb(56, 189, 248), rgb(49, 46, 129));
+	}
+}
+
+@layer base {
+	*::-webkit-scrollbar {
+		width: 15px;
+	}
+
+	/* Track */
+	*::-webkit-scrollbar-track {
+		background: #f1f1f1;
+	}
+
+	/* Handle */
+	*::-webkit-scrollbar-thumb {
+		background: theme(colors.gray.800);
+	}
+}
