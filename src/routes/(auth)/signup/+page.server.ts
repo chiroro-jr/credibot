@@ -19,6 +19,7 @@ export const actions: Actions = {
 		try {
 			await locals.pb.collection('users').create({ username, ...formData })
 		} catch (error) {
+			console.log(error)
 			if (error instanceof ClientResponseError) {
 				// eslint-disable-next-line @typescript-eslint/no-unused-vars
 				const { password, passwordConfirm, ...values } = formData
